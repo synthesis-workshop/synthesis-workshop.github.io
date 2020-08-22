@@ -19,7 +19,7 @@ export default () => {
         <Container fluid className="p-0">
             <FullPageSection
                 backgroundColor={({ theme }) => theme.colors.primary.base}
-                className="d-flex flex-column align-items-center justify-content-between"
+                className="d-flex flex-column align-items-center"
             >
                 <TitleText className="m-2">
                     Synthesis Workshop Videos
@@ -33,7 +33,7 @@ export default () => {
                         width="100%"
                     />
                 </Row>
-                <Row className="ml-5 mr-5">
+                <Row className="ml-5 mr-5 mb-5">
                     <IntroText>
                         <p>
                             Synthesis Workshop is an open access video podcast exploring the field of organic synthesis.
