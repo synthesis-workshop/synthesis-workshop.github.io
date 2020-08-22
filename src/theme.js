@@ -12,5 +12,14 @@ export default {
     },
     nav: {
         height: "3.5em"
+    },
+    font: {
+        size: {
+            sm: "0.5em",
+            md: "1em",
+            lg: "1.5em",
+            xl: "1.75em",
+            xxl: "2em"
+        }
     }
 }

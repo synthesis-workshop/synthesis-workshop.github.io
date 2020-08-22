@@ -5,31 +5,45 @@ import {
     Row,
     Card
 } from 'react-bootstrap';
+import ReactPlayer from 'react-player';
 import {
     FullPageSection
 } from '../../shared/styled';
+import {
+    TitleText,
+    IntroText
+} from './styled';
 
 export default () => {
     return (
-        <Container fluid>
-            <Row>
-                <FullPageSection
-                    backgroundImage={"/img/landing.jpg"}
-                    backgroundColor={({theme}) => theme.colors.primary.base}
-                    className="d-flex align-items-center"
+        <Container fluid className="p-0">
+            <FullPageSection
+                backgroundColor={({ theme }) => theme.colors.primary.base}
+                className="d-flex flex-column align-items-center justify-content-between"
+            >
+                <TitleText className="m-2">
+                    Synthesis Workshop Videos
+                </TitleText>
+                <Row
+                    className="w-50 flex-grow-1 d-flex flex-column justify-content-center"
                 >
-                    <Col xs={4}>
-                        <Card>
-                            <Card.Body>
-                                <Card.Title>Hi! I'm Rachel</Card.Title>
-                                <Card.Text>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                            </Card.Text>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                </FullPageSection>
-            </Row>
+                    <ReactPlayer
+                        url="https://www.youtube.com/watch?v=1q1cQg8tWGM"
+                        controls={true}
+                        width="100%"
+                    />
+                </Row>
+                <Row className="ml-5 mr-5">
+                    <IntroText>
+                        <p>
+                            Synthesis Workshop is an open access video podcast exploring the field of organic synthesis.
+                            Through four complementary modules - Total Synthesis, Named Reactions, Research Spotlights,
+                            and Culture of Chemistry - we investigate advances in many areas of the field and delve into
+                            the “human aspects” of having a career in chemistry.
+                        </p>
+                    </IntroText>
+                </Row>
+            </FullPageSection>
         </Container>
     )
 }

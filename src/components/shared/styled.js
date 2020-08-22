@@ -11,5 +11,5 @@ export const FullPageSection = styled.div`
         }
     }};
     background-color: ${({backgroundColor}) => backgroundColor || "none"};
-    height: calc(100vh - ${({theme}) => theme.nav.height});
+    min-height: calc(100vh - ${({theme}) => theme.nav.height});
 `
