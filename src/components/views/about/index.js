@@ -14,7 +14,7 @@ export default () => {
 
                     <div class="row">
                         <div class="col-lg-7 d-flex align-items-center justify-content-center">
-                            <img src="img/structures.svg" class="img-fluid" alt="" />
+                            <img style={{height: "100%"}} src="img/structures.svg" class="img-fluid" alt="" />
                         </div>
                         <div class="col-lg-5 pt-4 pt-lg-0">
                             <div class="card">
