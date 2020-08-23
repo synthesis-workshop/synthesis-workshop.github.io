@@ -1,12 +1,121 @@
 {
+    "counts": {
+        "subscribers": "1.12K+",
+        "featuredGuests": 6,
+        "totalViews": "14.3K+"
+    },
     "total-synthesis": [
+        {
+            "episodeNumber": 20,
+            "displayTitle": "Synthesis of Quinine and Quinidine",
+            "videoId": "ulxxfL6X3Ig"
+        },
+        {
+            "episodeNumber": 16,
+            "displayTitle": "(-)-PF-1018 Total Synthesis",
+            "videoId": "PVKIe49YGtg"
+        },
+        {
+            "episodeNumber": 14,
+            "displayTitle": "(-)-Scabrolide A Total Synthesis",
+            "videoId": "TcxcbQ0412U"
+        },
+        {
+            "episodeNumber": 11,
+            "displayTitle": "Tafluprost Total Synthesis",
+            "videoId": "84EIlfTx4Eo"
+        },
+        {
+            "episodeNumber": 9,
+            "displayTitle": "(-)-Bactobolin A Total Synthesis",
+            "videoId": "HL6xcZjl_x4"
+        },
+        {
+            "episodeNumber": 7,
+            "displayTitle": "(-)-Maximiscin Total Synthesis",
+            "videoId": "iiZUaqeXGzs"
+        },
+        {
+            "episodeNumber": 5,
+            "displayTitle": "(-)-Cajanusine Total Synthesis",
+            "videoId": "aIdHnyOwAOk"
+        },
+        {
+            "episodeNumber": 4,
+            "displayTitle": "(-)-Curvulamine Total Synthesis",
+            "videoId": "Au5QSvD--Gc"
+        },
+        {
+            "episodeNumber": 2,
+            "displayTitle": "Bryostatin 1 Total Synthesis",
+            "videoId": "7_deI2poP-U"
+        }
+    ], 
+    "named-reactions": [
+        {
+            "episodeNumber": 17,
+            "displayTitle": "The Baylis-Hillman Reaction",
+            "videoId": "N74E-4_TQ3k"
+        },
+        {
+            "episodeNumber": 15,
+            "displayTitle": "The Baeyer-Villiger Oxidation",
+            "videoId": "w8ZaLm7qlLk"
+        },
+        {
+            "episodeNumber": 13,
+            "displayTitle": "The Birch Reduction",
+            "videoId": "A2ksWMI8xnI"
+        },
+        {
+            "episodeNumber": 6,
+            "displayTitle": "The Nazarov Cyclization",
+            "videoId": "nfoBunOTkVk"
+        },
+        {
+            "episodeNumber": 3,
+            "displayTitle": "The Mitsunobu Reaction",
+            "videoId": "qQdwL0HgB1c"
+        },
+        {
+            "episodeNumber": 1,
+            "displayTitle": "The Hofmann Rearrangement",
+            "videoId": "DJhopfFG5Sc"
+        }
+    ],
+    "research-spotlight": [
         {
             "episodeNumber": 21,
             "displayTitle": "Catalytic Hauser-Kraus Annulations with Mohammed Sharique",
             "videoId": "fYhV8nAhlQI"
+        },
+        {
+            "episodeNumber": 19,
+            "displayTitle": "Diastereoselective Conjugate Additions with Michael Liang",
+            "videoId": "sKYV1XeMGHs"
+        },
+        {
+            "episodeNumber": 18,
+            "displayTitle": "Imposter Syndrome Discussion with Dr. Marc Reid",
+            "videoId": "rodNvF6ZW6Q"
+        },
+        {
+            "episodeNumber": 12,
+            "displayTitle": "Homobenzylic Oxygenation with Dr. Joshua McManus",
+            "videoId": "X5Di4hn2hAc"
+        },
+        {
+            "episodeNumber": 10,
+            "displayTitle": "Brevianamide A Synthesis with Dr. Blane Zavesky",
+            "videoId": "PZItREnuEHI"
+        },
+        {
+            "episodeNumber": 8,
+            "displayTitle": "Nickel-catalyzed Hydroarylation with Dr. Noam Saper",
+            "videoId": "ebsyGNeHAwA"
         }
-    ], 
-    "named-reactions": [],
-    "research-spotlight": [],
-    "culture-of-chemistry": []
+    ],
+    "culture-of-chemistry": [
+        
+    ]
 }

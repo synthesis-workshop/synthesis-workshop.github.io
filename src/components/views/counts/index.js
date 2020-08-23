@@ -18,7 +18,7 @@ export default () => {
                     <div class="row counters">
 
                         <div class="col-lg-3 col-6 text-center">
-                            <span data-toggle="counter-up">1.12K+</span>
+                            <span data-toggle="counter-up">{videos.counts.subscribers}</span>
                             <p>Subscribers</p>
                         </div>
 
@@ -28,12 +28,12 @@ export default () => {
                         </div>
 
                         <div class="col-lg-3 col-6 text-center">
-                            <span data-toggle="counter-up">14</span>
+                            <span data-toggle="counter-up">{videos.counts.featuredGuests}</span>
                             <p>Featured Guests</p>
                         </div>
 
                         <div class="col-lg-3 col-6 text-center">
-                            <span data-toggle="counter-up">14.3K+</span>
+                            <span data-toggle="counter-up">{videos.counts.totalViews}</span>
                             <p>Total Views</p>
                         </div>
 
