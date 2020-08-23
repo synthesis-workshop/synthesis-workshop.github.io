@@ -20,7 +20,7 @@ export default () => {
                             <div class="card">
                                 <div class="card-body">
                                     <h3 class="card-title">Our Mission</h3>
-                                    <p class="card-text">
+                                    <p class="card-text" style={{textAlign: "justify"}}>
                                         Chemists today face an overwhelming amount of new information on a daily basis. Every day in the literature, there are new methodologies, reagents, catalysts, and syntheses added to the repertoire of what a “well-versed researcher” needs to be aware of. While these advances may have the potential for far reaching impacts, students and researchers in the field are under mounting pressure to publish their own work and hardly have time to stay up to date with all the latest literature while simultaneously maintaining a healthy work-life balance. To begin to address this issue of how we can improve our collective awareness of important advances in an increasingly efficient manner, Synthesis Workshop takes a three pronged approach:
                                         <ol>
                                             <li>
@@ -44,7 +44,7 @@ export default () => {
                             <div class="card">
                                 <div class="card-body">
                                     <h3 class="card-title">Who We Are</h3>
-                                    <p class="card-text">
+                                    <p class="card-text" style={{textAlign: "justify"}}>
                                         Dr. Matthew Horwitz obtained his B.A. in Biochemistry from Columbia University in 2013 and studied computational chemistry under the supervision of Dr. Charles Doubleday. He then moved to the University of North Carolina at Chapel Hill for his doctoral work in organocatalysis and total synthesis under Prof. Jeffrey Johnson. During this period, he worked in the laboratories of Prof. Takashi Ooi at Nagoya University, studying asymmetric Bronsted base catalysis, and Prof. Xiaoming Feng at Sichuan University, studying <em>N,N</em>'-dioxide metal-ligand complexes. After completing his doctoral work in 2017, he studied synthetic photochemistry in the laboratory of Prof. Paolo Melchiorre at the Institute of Chemical Research of Catalonia (ICIQ) as a postdoctoral researcher, before moving to Oxford in 2018 to work in the Gouverneur group. In 2020, he was awarded a Marie Skłodowska-Curie Individual Fellowship and a Junior Research Fellowship at Kellogg College (University of Oxford).
                                     </p>
                                 </div>
