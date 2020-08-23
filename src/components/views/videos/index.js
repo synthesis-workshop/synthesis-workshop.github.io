@@ -47,7 +47,7 @@ export default () => {
 
                         {videos["total-synthesis"].length > 0 && (
                             <>
-                                <h4 className="pt-5">Total Synthesis Episodes ({videos["total-synthesis"].length})</h4>
+                                <h4 className="pt-5" style={{color: BLUE}}>Total Synthesis Episodes ({videos["total-synthesis"].length})</h4>
                                 <div class="col-lg-12 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                     <div class="icon-box">
                                         {videos["total-synthesis"].map(video => (
@@ -66,7 +66,7 @@ export default () => {
 
                         {videos["named-reactions"].length > 0 && (
                             <>
-                                <h4 className="pt-5">Named Reaction Episodes ({videos["named-reactions"].length})</h4>
+                                <h4 className="pt-5" style={{color: RED}}>Named Reaction Episodes ({videos["named-reactions"].length})</h4>
                                 <div class="col-lg-12 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                     <div class="icon-box">
                                         {videos["named-reactions"].map(video => (
@@ -85,7 +85,7 @@ export default () => {
 
                         {videos["research-spotlight"].length > 0 && (
                             <>
-                                <h4 className="pt-5">Research Spotlight Episodes ({videos["research-spotlight"].length})</h4>
+                                <h4 className="pt-5" style={{color: GREEN}}>Research Spotlight Episodes ({videos["research-spotlight"].length})</h4>
                                 <div class="col-lg-12 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                     <div class="icon-box">
                                         {videos["research-spotlight"].map(video => (
@@ -104,7 +104,7 @@ export default () => {
 
                         {videos["culture-of-chemistry"].length > 0 && (
                             <>
-                                <h4 className="pt-5">Culture of Chemistry Episodes ({videos["culture-of-chemistry"].length})</h4>
+                                <h4 className="pt-5" style={{color: YELLOW}}>Culture of Chemistry Episodes ({videos["culture-of-chemistry"].length})</h4>
                                 <div class="col-lg-12 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                     <div class="icon-box">
                                         {videos["culture-of-chemistry"].map(video => (
