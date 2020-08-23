@@ -8,34 +8,16 @@ export default () => {
 
                     <div class="section-title">
                         <h2>Contact</h2>
-                        <p>Feel free to reach out to us for anything related to our channel!</p>
                     </div>
 
                     <div class="row">
 
-                        <div class="col-lg-6">
-
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="info-box">
-                                        <i class="bx bx-map"></i>
-                                        <h3>Our Address</h3>
-                                        <p>?????</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="info-box mt-4">
-                                        <i class="bx bx-envelope"></i>
-                                        <h3>Email Us</h3>
-                                        <p>synthesisworkshopvideos@gmail.com</p>
-                                    </div>
-                                </div>
-
+                        <div class="col-lg-12">
+                            <div class="info-box">
+                                <i class="bx bx-envelope"></i>
+                                <h3>Email Us</h3>
+                                <p>synthesisworkshopvideos@gmail.com</p>
                             </div>
-
-                        </div>
-
-                        <div class="col-lg-6">
                             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                                 <div class="form-row">
                                     <div class="col-md-6 form-group">

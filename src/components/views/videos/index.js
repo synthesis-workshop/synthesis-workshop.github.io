@@ -2,16 +2,22 @@ import React from 'react';
 import ReactPlayer from 'react-player';
 import VideoThumbnail from '../../videoThumbnail';
 
+import {
+    BLUE,
+    RED,
+    GREEN,
+    YELLOW
+} from '../../../shared/constants';
 import videos from '../../../shared/videos.json';
 
 const VID_ID = "{VID_ID}";
 const YOUTUBE_THUMBNAIL_URL = `https://img.youtube.com/vi/${VID_ID}/0.jpg`;
 const YOUTUBE_WATCH_URL = `https://www.youtube.com/watch?v=${VID_ID}`;
 const allVideos = [
-    ...videos["total-synthesis"],
-    ...videos["research-spotlight"],
-    ...videos["named-reactions"],
-    ...videos["culture-of-chemistry"]
+    ...videos["total-synthesis"].map(video => ({ ...video, type: "total-synthesis" })),
+    ...videos["research-spotlight"].map(video => ({ ...video, type: "research-spotlight" })),
+    ...videos["named-reactions"].map(video => ({ ...video, type: "named-reactions" })),
+    ...videos["culture-of-chemistry"].map(video => ({ ...video, type: "culture-of-chemistry" }))
 ].sort((a, b) => {
     return b.episodeNumber - a.episodeNumber;
 });
@@ -46,6 +52,7 @@ export default () => {
                                     <div class="icon-box">
                                         {videos["total-synthesis"].map(video => (
                                             <VideoThumbnail
+                                                color={BLUE}
                                                 title={video.displayTitle}
                                                 episodeNumber={video.episodeNumber}
                                                 link={YOUTUBE_WATCH_URL.replace(VID_ID, video.videoId)}
@@ -64,6 +71,7 @@ export default () => {
                                     <div class="icon-box">
                                         {videos["named-reactions"].map(video => (
                                             <VideoThumbnail
+                                                color={RED}
                                                 title={video.displayTitle}
                                                 episodeNumber={video.episodeNumber}
                                                 link={YOUTUBE_WATCH_URL.replace(VID_ID, video.videoId)}
@@ -82,6 +90,7 @@ export default () => {
                                     <div class="icon-box">
                                         {videos["research-spotlight"].map(video => (
                                             <VideoThumbnail
+                                                color={GREEN}
                                                 title={video.displayTitle}
                                                 episodeNumber={video.episodeNumber}
                                                 link={YOUTUBE_WATCH_URL.replace(VID_ID, video.videoId)}
@@ -100,6 +109,7 @@ export default () => {
                                     <div class="icon-box">
                                         {videos["culture-of-chemistry"].map(video => (
                                             <VideoThumbnail
+                                                color={YELLOW}
                                                 title={video.displayTitle}
                                                 episodeNumber={video.episodeNumber}
                                                 link={YOUTUBE_WATCH_URL.replace(VID_ID, video.videoId)}
@@ -116,14 +126,21 @@ export default () => {
                                 <h4 className="pt-5">All Videos ({allVideos.length})</h4>
                                 <div class="col-lg-12 col-md-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                                     <div class="icon-box">
-                                        {allVideos.map(video => (
-                                            <VideoThumbnail
-                                                title={video.displayTitle}
-                                                episodeNumber={video.episodeNumber}
-                                                link={YOUTUBE_WATCH_URL.replace(VID_ID, video.videoId)}
-                                                url={YOUTUBE_THUMBNAIL_URL.replace(VID_ID, video.videoId)}
-                                            />
-                                        ))}
+                                        {allVideos.map(video => {
+                                            let color = video.type === "total-synthesis" ? BLUE
+                                            : video.type === "research-spotlight" ? GREEN
+                                                : video.type === "named-reactions" ? RED
+                                                    : YELLOW
+                                            return (
+                                                <VideoThumbnail
+                                                    color={color}
+                                                    title={video.displayTitle}
+                                                    episodeNumber={video.episodeNumber}
+                                                    link={YOUTUBE_WATCH_URL.replace(VID_ID, video.videoId)}
+                                                    url={YOUTUBE_THUMBNAIL_URL.replace(VID_ID, video.videoId)}
+                                                />
+                                            )
+                                        })}
                                     </div>
                                 </div>
                             </>

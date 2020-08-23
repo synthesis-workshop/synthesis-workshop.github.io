@@ -26,6 +26,11 @@
             "videoId": "84EIlfTx4Eo"
         },
         {
+            "episodeNumber": 10,
+            "displayTitle": "Brevianamide A Synthesis with Dr. Blane Zavesky",
+            "videoId": "PZItREnuEHI"
+        },
+        {
             "episodeNumber": 9,
             "displayTitle": "(-)-Bactobolin A Total Synthesis",
             "videoId": "HL6xcZjl_x4"
@@ -95,19 +100,9 @@
             "videoId": "sKYV1XeMGHs"
         },
         {
-            "episodeNumber": 18,
-            "displayTitle": "Imposter Syndrome Discussion with Dr. Marc Reid",
-            "videoId": "rodNvF6ZW6Q"
-        },
-        {
             "episodeNumber": 12,
             "displayTitle": "Homobenzylic Oxygenation with Dr. Joshua McManus",
             "videoId": "X5Di4hn2hAc"
-        },
-        {
-            "episodeNumber": 10,
-            "displayTitle": "Brevianamide A Synthesis with Dr. Blane Zavesky",
-            "videoId": "PZItREnuEHI"
         },
         {
             "episodeNumber": 8,
@@ -116,6 +111,10 @@
         }
     ],
     "culture-of-chemistry": [
-        
+        {
+            "episodeNumber": 18,
+            "displayTitle": "Imposter Syndrome Discussion with Dr. Marc Reid",
+            "videoId": "rodNvF6ZW6Q"
+        }
     ]
 }
