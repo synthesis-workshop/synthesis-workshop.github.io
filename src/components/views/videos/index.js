@@ -28,6 +28,17 @@ export default () => {
 
                     <div class="row">
 
+                        <h4>See the latest:</h4>
+                        <div class="col-lg-12 col-md-12 d-flex align-items-stretch justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                            <ReactPlayer
+                                controls={true}
+                                url={YOUTUBE_WATCH_URL.replace(VID_ID, allVideos[0].videoId)}
+                            />
+                        </div>
+                        <div class="mt-3 col-lg-12 col-md-12 d-flex align-items-stretch justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                            <strong>Episode {allVideos[0].episodeNumber}: {allVideos[0].displayTitle}</strong>
+                        </div>
+
                         {videos["total-synthesis"].length > 0 && (
                             <>
                                 <h4 className="pt-5">Total Synthesis Episodes ({videos["total-synthesis"].length})</h4>

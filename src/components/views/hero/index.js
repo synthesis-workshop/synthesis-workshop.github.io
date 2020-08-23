@@ -7,7 +7,7 @@ export default () => {
                 <div class="container position-relative">
                     <h1>Synthesis Workshop</h1>
                     <h2>Tagline here</h2>
-                    <a href="#videos" class="btn-get-started scrollto">See Our Videos</a>
+                    <a href="https://www.youtube.com/c/SynthesisWorkshopVideos/featured" class="btn-get-started scrollto">See Our Channel</a>
                 </div>
             </section>
         </>
