@@ -1,68 +1,112 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Synthesis Workshop Website
 
-## Available Scripts
+## 1 Running Locally
 
-In the project directory, you can run:
+Whenever you want to make changes, it helps to run the website locally so that you can view your changes before deciding to deploy them. In order to do this, make sure you have completed the following steps:
 
-### `npm start`
+### 1.1 One-time Setup Tasks
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1) Open Terminal on your Mac and generate a public / private ssh keypair on your laptop using the following command using your github e-mail (with quotes):
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
-### `npm test`
+Press "Enter" at each of these prompts to use the default values:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+> Enter a file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]
+> Enter passphrase (empty for no passphrase): [Type a passphrase]
+> Enter same passphrase again: [Type passphrase again]
+```
 
-### `npm run build`
+2) Add the generated public key to your github ssh tokens
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In Terminal, run the following command to copy your public key to the clipboard:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+`pbcopy < ~/.ssh/id_rsa.pub`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+In GitHub, navigate to your profile settings > "SSH and GPG Keys" > "New SSH Key". Give your ssh key a descriptive title "macbook pro - personal" or something like that and past the public key from your clipboard into the box. DO NOT ADD ANY SPACES OR PRESS ENTER OR ANYTHING LIKE THAT.
 
-### `npm run eject`
+3) Download and install [Node.js](https://nodejs.org/en/download/). If you already have a terminal open, you will need to close it and open a new one when this installation is done.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+4) Clone the repository to your machine. Do this by opening Terminal and run
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`cd path/to/where/you/want/the/project`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+to navigate to the directory you want to store the project in. Then run
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+`git clone git@github.com:synthesis-workshop/synthesis-workshop.github.io.git`
 
-## Learn More
+to clone the project to your machine.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 1.2 Starting the project locally
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1) Navigate INTO the project directory in Terminal with
 
-### Code Splitting
+`cd path/to/project`
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Make sure you include the name of the project directory in this path so that you're inside the project. Verify this by running `ls` and you should see something like the following output:
 
-### Analyzing the Bundle Size
+```
+$ ls
+> README.md    build        node_modules package.json public       src          yarn.lock
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+2) Once inside the project, make sure you have run the following command at least once to install dependencies:
 
-### Making a Progressive Web App
+`yarn install`
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+3) Start the project
 
-### Advanced Configuration
+`yarn start`
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+The project should now be running and you can access the site by navigating your browser to http://localhost:3000
 
-### Deployment
+## 2 Making updates to the site
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+### 2.1 Adding a video
 
-### `npm run build` fails to minify
+There is a data file `videos.json` located at `/src/shared/videos.json` that contains the information for all of the videos. To add a video, open that file in your favorite text editor and add an entry to the appropriate array. Each video is represented by a curly-bracketted object, such as this:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```
+{
+    "episodeNumber": 20,
+    "displayTitle": "Synthesis of Quinine and Quinidine",
+    "videoId": "ulxxfL6X3Ig"
+}
+```
+
+Make sure to add a comma after the closing brace, because the arrays are comma-separated. Make sure to include the correct episode number, the title you want to display on the site and in the episode directory (follow the same pattern as all the others), and the videoId. You can find the videoId by opening the video in youtube and pulling it from the URL. For example, if the URL is https://www.youtube.com/watch?v=fYhV8nAhlQI, then the videoId is "fYhV8nAhlQI".
+
+### 2.2 Updating Counts
+
+In the same videos.json file, you can also update the counts object to show updated numbers:
+
+```
+"counts": {
+    "subscribers": "1.12K+",
+    "featuredGuests": 6,
+    "totalViews": "14.3K+"
+}
+```
+
+### 2.3 Pushing your changes to the repository
+
+After you have made your changes locally on your machine, you need to push the changes to the repository to keep it up to date. Do this by running the following commands in the Terminal (after you have navigated to the project directory):
+
+```
+git add -A
+git commit -m "Description of changes made"
+git push origin master
+```
+
+Now your changes should be pushed up to the repository. Next you need to create a production build of the site and deploy it. Run the following command to create the build:
+
+`yarn predeploy`
+
+Then run the following command to deploy the site to live:
+
+`yarn deploy`
+
+## All set!
+
+After you have done this process once, you should only need to follow the steps in Part 2 of this guide to make any changes you want to make.
