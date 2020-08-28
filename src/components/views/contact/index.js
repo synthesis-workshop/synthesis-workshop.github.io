@@ -4,6 +4,7 @@ const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSfC4j_lyHmHWRU
 
 export default () => {
 
+    const [hiddenFrameLoaded, setHiddenFrameLoaded] = useState(false);
     const [submittedForm, setSubmittedForm] = useState(false);
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
@@ -21,17 +22,26 @@ export default () => {
             && emailRegex.test(email)
             && subject.length > 0
             && message.length > 0;
-    }, [name, email, subject, message])
+    }, [name, email, subject, message]);
+
+    const handleHiddenFrameLoaded = useCallback(() => {
+        if(hiddenFrameLoaded) {
+            setSubmittedForm(true);
+        } else {
+            setHiddenFrameLoaded(true);
+        }
+    }, [hiddenFrameLoaded]);
 
     return (
         <>
             <section id="contact" class="contact section-bg">
                 <div class="container">
                     <iframe
+                        title="hidden_iframe"
                         name="hidden_iframe"
                         id="hidden_iframe"
                         style={{ display: "none" }}
-                        onLoad={() => setSubmittedForm(true)}
+                        onLoad={handleHiddenFrameLoaded}
                     ></iframe>
 
                     <div class="section-title">
@@ -58,28 +68,35 @@ export default () => {
                                             target="hidden_iframe"
                                             action={GOOGLE_FORM_URL}
                                             method="post"
-                                            role="form"
                                             class="php-email-form"
                                         >
                                             <div class="form-row">
                                                 <div class="col-md-6 form-group">
-                                                    <input onChange={onChangeName} type="text" name="entry.2005620554" class="form-control" id="name" placeholder="Your Name"/>
+                                                    <input onChange={onChangeName} type="text" name="entry.2005620554" class="form-control" id="name" placeholder="Your Name" />
                                                     <p class="input-required">* required</p>
                                                 </div>
                                                 <div class="col-md-6 form-group">
-                                                    <input onChange={onChangeEmail} type="email" class="form-control" name="entry.1045781291" id="email" placeholder="Your Email"/>
+                                                    <input onChange={onChangeEmail} type="email" class="form-control" name="entry.1045781291" id="email" placeholder="Your Email" />
                                                     <p class="input-required">* required</p>
                                                 </div>
                                             </div>
                                             <div class="form-group">
-                                                <input onChange={onChangeSubject} type="text" class="form-control" name="entry.1065046570" id="subject" placeholder="Subject"/>
+                                                <input onChange={onChangeSubject} type="text" class="form-control" name="entry.1065046570" id="subject" placeholder="Subject" />
                                                 <p class="input-required">* required</p>
                                             </div>
                                             <div class="form-group">
                                                 <textarea onChange={onChangeMessage} class="form-control" name="entry.1166974658" rows="5" placeholder="Message"></textarea>
                                                 <p class="input-required">* required</p>
                                             </div>
-                                            <div class="text-center"><button type="submit" className={!isSubmitButtonEnabled() ? "disabled" : ""} disabled={!isSubmitButtonEnabled()}>Send Message</button></div>
+                                            <div class="text-center">
+                                                <button
+                                                    type="submit"
+                                                    className={!isSubmitButtonEnabled() ? "disabled" : ""}
+                                                    disabled={!isSubmitButtonEnabled()}
+                                                >
+                                                    Send Message
+                                                </button>
+                                            </div>
                                         </form>
                                     </>
                                 )}
