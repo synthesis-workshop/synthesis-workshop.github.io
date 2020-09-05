@@ -5,12 +5,7 @@
         "totalViews": "16.6K+"
     },
     "total-synthesis": [
-	{
-            "episodeNumber": 23,
-            "displayTitle": "Asymmetric Hydrogenation of Oximes with Dr. Josep Mas-Roselló",
-            "videoId": "BDZibkCTevw"
-        },
-	{
+		{
             "episodeNumber": 22,
             "displayTitle": "Synthesis of Talatisamine",
             "videoId": "Qh_Yvhedtyo"
@@ -99,6 +94,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 23,
+            "displayTitle": "Asymmetric Hydrogenation of Oximes with Dr. Josep Mas-Roselló",
+            "videoId": "BDZibkCTevw"
+        },
         {
             "episodeNumber": 21,
             "displayTitle": "Catalytic Hauser-Kraus Annulations with Mohammed Sharique",
