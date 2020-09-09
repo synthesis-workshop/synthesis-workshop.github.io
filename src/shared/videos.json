@@ -1,11 +1,16 @@
 {
     "counts": {
-        "subscribers": "1.26K+",
-        "featuredGuests": 7,
-        "totalViews": "16.6K+"
+        "subscribers": "1.29K+",
+        "featuredGuests": 8,
+        "totalViews": "17.2K+"
     },
     "total-synthesis": [
-		{
+	{
+            "episodeNumber": 7.5,
+            "displayTitle": "Síntesis de la Maximiscina",
+            "videoId": "AixsGL-iQrI"
+        },		
+	{
             "episodeNumber": 22,
             "displayTitle": "Synthesis of Talatisamine",
             "videoId": "Qh_Yvhedtyo"
