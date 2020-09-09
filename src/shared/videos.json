@@ -4,12 +4,7 @@
         "featuredGuests": 8,
         "totalViews": "17.2K+"
     },
-    "total-synthesis": [
-	{
-            "episodeNumber": 7.5,
-            "displayTitle": "Síntesis de la Maximiscina",
-            "videoId": "AixsGL-iQrI"
-        },		
+    "total-synthesis": [		
 	{
             "episodeNumber": 22,
             "displayTitle": "Synthesis of Talatisamine",
@@ -44,6 +39,11 @@
             "episodeNumber": 9,
             "displayTitle": "(-)-Bactobolin A Total Synthesis",
             "videoId": "HL6xcZjl_x4"
+        },
+	{
+            "episodeNumber": 7.5,
+            "displayTitle": "Síntesis de la Maximiscina",
+            "videoId": "AixsGL-iQrI"
         },
         {
             "episodeNumber": 7,
