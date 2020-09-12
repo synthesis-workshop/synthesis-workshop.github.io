@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.29K+",
-        "featuredGuests": 8,
-        "totalViews": "17.2K+"
+        "subscribers": "1.30K+",
+        "featuredGuests": 9,
+        "totalViews": "17.7K+"
     },
     "total-synthesis": [		
 	{
@@ -99,6 +99,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 24,
+            "displayTitle": "Total Synthesis of Chilocorine C with Vlad Lisnyak",
+            "videoId": "WaHY8GGDOCI"
+        },	
 	{
             "episodeNumber": 23,
             "displayTitle": "Asymmetric Hydrogenation of Oximes with Dr. Josep Mas-Roselló",
