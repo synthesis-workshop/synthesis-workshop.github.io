@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.30K+",
-        "featuredGuests": 9,
-        "totalViews": "17.7K+"
+        "subscribers": "1.34K+",
+        "featuredGuests": 10,
+        "totalViews": "18.6K+"
     },
     "total-synthesis": [		
 	{
@@ -99,6 +99,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 25,
+            "displayTitle": "Synthesis of Optically Active 7-Membered Rings with Michele Garbo",
+            "videoId": "gHZ0h71_oo0"
+        },
 	{
             "episodeNumber": 24,
             "displayTitle": "Total Synthesis of Chilocorine C with Vlad Lisnyak",
