@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.34K+",
+        "subscribers": "1.35K+",
         "featuredGuests": 10,
-        "totalViews": "18.6K+"
+        "totalViews": "19.1K+"
     },
     "total-synthesis": [		
 	{
@@ -81,6 +81,12 @@
             "episodeNumber": 13,
             "displayTitle": "The Birch Reduction",
             "videoId": "A2ksWMI8xnI"
+        },
+  	},
+        {
+            "episodeNumber": 6.5,
+            "displayTitle": "La Ciclación de Nazarov",
+            "videoId": "7vAfAG6CSvo"
         },
         {
             "episodeNumber": 6,
