@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.35K+",
+        "subscribers": "1.36K+",
         "featuredGuests": 10,
-        "totalViews": "19.1K+"
+        "totalViews": "19.4K+"
     },
     "total-synthesis": [		
 	{
@@ -67,6 +67,11 @@
         }
     ], 
     "named-reactions": [
+ 	 {
+            "episodeNumber": 26,
+            "displayTitle": "The Julia-Lythgoe Olefination",
+            "videoId": "2asmyACX1ls"
+        },
         {
             "episodeNumber": 17,
             "displayTitle": "The Baylis-Hillman Reaction",
