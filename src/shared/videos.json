@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.36K+",
-        "featuredGuests": 10,
-        "totalViews": "19.4K+"
+        "subscribers": "1.39K+",
+        "featuredGuests": 11,
+        "totalViews": "20.3K+"
     },
     "total-synthesis": [		
 	{
@@ -109,6 +109,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 27,
+            "displayTitle": "Synthesis of Picrotoxinin and Picrotin with Dr. Steven Crossley",
+            "videoId": "93R1yiKS3TI"
+        },	
 	{
             "episodeNumber": 25,
             "displayTitle": "Synthesis of Optically Active 7-Membered Rings with Michele Garbo",
