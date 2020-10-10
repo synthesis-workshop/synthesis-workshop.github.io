@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.39K+",
-        "featuredGuests": 11,
-        "totalViews": "20.3K+"
+        "subscribers": "1.41K+",
+        "featuredGuests": 12,
+        "totalViews": "21.1K+"
     },
     "total-synthesis": [		
 	{
@@ -109,6 +109,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 28,
+            "displayTitle": "Dual Photoredox/Nickel Catalysis with Sebastian Gisbertz",
+            "videoId": "1jXO8883G0A"
+        },
 	{
             "episodeNumber": 27,
             "displayTitle": "Synthesis of Picrotoxinin and Picrotin with Dr. Steven Crossley",
