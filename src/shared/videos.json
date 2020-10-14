@@ -1,10 +1,15 @@
 {
     "counts": {
-        "subscribers": "1.41K+",
+        "subscribers": "1.43K+",
         "featuredGuests": 12,
-        "totalViews": "21.1K+"
+        "totalViews": "21.7K+"
     },
     "total-synthesis": [		
+	{
+            "episodeNumber": 22.5,
+            "displayTitle": "Síntesis de la Talatisamina",
+            "videoId": "qxLpKgCkgHU"
+        },
 	{
             "episodeNumber": 22,
             "displayTitle": "Synthesis of Talatisamine",
