@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.43K+",
-        "featuredGuests": 12,
-        "totalViews": "21.7K+"
+        "subscribers": "1.46K+",
+        "featuredGuests": 13,
+        "totalViews": "22.8K+"
     },
     "total-synthesis": [		
 	{
@@ -114,6 +114,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 29,
+            "displayTitle": "Cyclopropanation by Oxidative Umpolung with Dr. Adriano Bauer",
+            "videoId": "wwuIT8CVQAs"
+        },	
 	{
             "episodeNumber": 28,
             "displayTitle": "Dual Photoredox/Nickel Catalysis with Sebastian Gisbertz",
