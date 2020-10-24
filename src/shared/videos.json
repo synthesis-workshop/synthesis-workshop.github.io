@@ -2,9 +2,14 @@
     "counts": {
         "subscribers": "1.46K+",
         "featuredGuests": 13,
-        "totalViews": "22.8K+"
+        "totalViews": "23.4K+"
     },
-    "total-synthesis": [		
+    "total-synthesis": [
+	{
+            "episodeNumber": 30,
+            "displayTitle": "(+)-Pleuromutilin Total Synthesis",
+            "videoId": "0Ksl_2Bs-dQ"
+        },	
 	{
             "episodeNumber": 22.5,
             "displayTitle": "Síntesis de la Talatisamina",
