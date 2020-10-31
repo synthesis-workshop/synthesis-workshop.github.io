@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.58K+",
-        "featuredGuests": 13,
-        "totalViews": "24.6K+"
+        "subscribers": "1.61+",
+        "featuredGuests": 14,
+        "totalViews": "25.0K+"
     },
     "total-synthesis": [
 	{
@@ -124,6 +124,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 31,
+            "displayTitle": "Visible-light [2+2] Cycloadditions with Dr. Alberto Vega-Peñaloza",
+            "videoId": "P9CindS9Nig"
+        },
 	{
             "episodeNumber": 29,
             "displayTitle": "Cyclopropanation by Oxidative Umpolung with Dr. Adriano Bauer",
