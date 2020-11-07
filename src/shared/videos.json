@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.61+",
-        "featuredGuests": 14,
-        "totalViews": "25.0K+"
+        "subscribers": "1.65K+",
+        "featuredGuests": 15,
+        "totalViews": "25.9K+"
     },
     "total-synthesis": [
 	{
@@ -124,6 +124,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 32,
+            "displayTitle": "Synthesis of Repraesentin F with Dr. Sofia Ferrer",
+            "videoId": "3gjuhu8DL40"
+        },
 	{
             "episodeNumber": 31,
             "displayTitle": "Visible-light [2+2] Cycloadditions with Dr. Alberto Vega-Peñaloza",
