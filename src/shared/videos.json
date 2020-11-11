@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.65K+",
+        "subscribers": "1.67K+",
         "featuredGuests": 15,
-        "totalViews": "25.9K+"
+        "totalViews": "26.7K+"
     },
     "total-synthesis": [
 	{
@@ -29,6 +29,11 @@
             "episodeNumber": 20,
             "displayTitle": "Synthesis of Quinine and Quinidine",
             "videoId": "ulxxfL6X3Ig"
+        },
+ 	{
+            "episodeNumber": 16.5,
+            "displayTitle": "Síntesis del (-)-PF-1018",
+            "videoId": "c23M74x0n5k"
         },
         {
             "episodeNumber": 16,
