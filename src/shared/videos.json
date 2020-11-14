@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.67K+",
+        "subscribers": "1.68K+",
         "featuredGuests": 15,
-        "totalViews": "26.7K+"
+        "totalViews": "27.2K+"
     },
     "total-synthesis": [
 	{
@@ -191,6 +191,11 @@
         }
     ],
     "culture-of-chemistry": [
+	{
+            "episodeNumber": 33,
+            "displayTitle": "Communication in Organic Synthesis (Virtual Talk at Towson University)",
+            "videoId": "U7fLci-Xq7I"
+        },
         {
             "episodeNumber": 18,
             "displayTitle": "Imposter Syndrome Discussion with Dr. Marc Reid",
