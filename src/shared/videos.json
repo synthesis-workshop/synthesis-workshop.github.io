@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.68K+",
+        "subscribers": "1.72K+",
         "featuredGuests": 15,
-        "totalViews": "27.2K+"
+        "totalViews": "28.5K+"
     },
     "total-synthesis": [
 	{
@@ -87,7 +87,12 @@
         }
     ], 
     "named-reactions": [
- 	 {
+ 	  {
+            "episodeNumber": 34,
+            "displayTitle": "The Arbuzov Reaction",
+            "videoId": "Slkv-h6ohW8"
+        },
+	{
             "episodeNumber": 26,
             "displayTitle": "The Julia-Lythgoe Olefination",
             "videoId": "2asmyACX1ls"
