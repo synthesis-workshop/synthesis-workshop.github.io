@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.72K+",
+        "subscribers": "1.75K+",
         "featuredGuests": 15,
-        "totalViews": "28.5K+"
+        "totalViews": "29.4K+"
     },
     "total-synthesis": [
 	{
@@ -39,6 +39,11 @@
             "episodeNumber": 16,
             "displayTitle": "(-)-PF-1018 Total Synthesis",
             "videoId": "PVKIe49YGtg"
+        },
+ 	{
+            "episodeNumber": 14.5,
+            "displayTitle": "Síntesis de la Scabrolida A",
+            "videoId": "ZxrraGqi8cg"
         },
         {
             "episodeNumber": 14,
