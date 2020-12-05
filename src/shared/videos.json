@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.77K+",
-        "featuredGuests": 16,
-        "totalViews": "29.7K+"
+        "subscribers": "1.80K+",
+        "featuredGuests": 17,
+        "totalViews": "30.7K+"
     },
     "total-synthesis": [
 	{
@@ -139,6 +139,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 36,
+            "displayTitle": "High-valent Bismuth Redox Catalysis with Dr. Oriol Planas",
+            "videoId": "EYhVXwkkmSA"
+        },
 	{
             "episodeNumber": 35,
             "displayTitle": "Visible-light-mediated [2+2] Photocycloadditions with Marc Becker",
