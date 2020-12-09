@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.80K+",
+        "subscribers": "1.82K+",
         "featuredGuests": 17,
-        "totalViews": "30.7K+"
+        "totalViews": "31.5K+"
     },
     "total-synthesis": [
 	{
@@ -49,6 +49,11 @@
             "episodeNumber": 14,
             "displayTitle": "(-)-Scabrolide A Total Synthesis",
             "videoId": "TcxcbQ0412U"
+        },
+	 {
+            "episodeNumber": 11.5,
+            "displayTitle": "Síntesis del Tafluprost",
+            "videoId": "NyRKY52xzy0"
         },
         {
             "episodeNumber": 11,
