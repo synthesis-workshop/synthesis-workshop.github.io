@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.82K+",
-        "featuredGuests": 17,
-        "totalViews": "31.5K+"
+        "subscribers": "1.86K+",
+        "featuredGuests": 18,
+        "totalViews": "31.9K+"
     },
     "total-synthesis": [
 	{
@@ -144,6 +144,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 37,
+            "displayTitle": "Total Synthesis of (±)-Leonuketal with Dr. Phillip Grant",
+            "videoId": "gYtGywCKV-0"
+        },	
 	{
             "episodeNumber": 36,
             "displayTitle": "High-valent Bismuth Redox Catalysis with Dr. Oriol Planas",
