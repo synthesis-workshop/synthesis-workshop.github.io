@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.91K+",
-        "featuredGuests": 18,
-        "totalViews": "33.2K+"
+        "subscribers": "1.96K+",
+        "featuredGuests": 19,
+        "totalViews": "34.5K+"
     },
     "total-synthesis": [
 	{
@@ -149,6 +149,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 39,
+            "displayTitle": "Decatungstate Photocatalysis in Flow with Dr. Gabriele Laudadio",
+            "videoId": "Hx_ox_T1fBU"
+        },
 	{
             "episodeNumber": 37,
             "displayTitle": "Total Synthesis of (±)-Leonuketal with Dr. Phillip Grant",
