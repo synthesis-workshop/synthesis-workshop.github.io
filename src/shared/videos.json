@@ -1,18 +1,23 @@
 {
     "counts": {
-        "subscribers": "1.96K+",
+        "subscribers": "1.98K+",
         "featuredGuests": 19,
-        "totalViews": "34.5K+"
+        "totalViews": "35.2K+"
     },
     "total-synthesis": [
 	{
+            "episodeNumber": 38.5,
+            "displayTitle": "Síntesis del Anhidroryanodol",
+            "videoId": "mbUKTY-S3tM"
+        },
+	{
             "episodeNumber": 38,
-            "displayTitle": "Synthesis of Anhydroryanodol ",
+            "displayTitle": "Synthesis of Anhydroryanodol",
             "videoId": "_HMtVIXqJH8"
         },	
 	{
             "episodeNumber": 30.5,
-            "displayTitle": "Síntesis de la Pleuromutilina ",
+            "displayTitle": "Síntesis de la Pleuromutilina",
             "videoId": "fem3DYROyE8"
         },
 	{
