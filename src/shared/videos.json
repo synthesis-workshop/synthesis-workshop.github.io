@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "1.98K+",
-        "featuredGuests": 19,
-        "totalViews": "35.2K+"
+        "subscribers": "2.01K+",
+        "featuredGuests": 20,
+        "totalViews": "35.7K+"
     },
     "total-synthesis": [
 	{
@@ -154,6 +154,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 40,
+            "displayTitle": "Syntheses of Macfarlandin C and Dendrillolide A with Dr. Tyler Allred",
+            "videoId": "lW95iPs9TGU"
+        },	
 	{
             "episodeNumber": 39,
             "displayTitle": "Decatungstate Photocatalysis in Flow with Dr. Gabriele Laudadio",
