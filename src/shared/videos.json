@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "2.01K+",
-        "featuredGuests": 20,
-        "totalViews": "35.7K+"
+        "subscribers": "2.10K+",
+        "featuredGuests": 21,
+        "totalViews": "37.2K+"
     },
     "total-synthesis": [
 	{
@@ -154,6 +154,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 41,
+            "displayTitle": "Pd-catalyzed Carbohalogenation of Alkynes with Prof. Christine Le",
+            "videoId": "7oNvraK7-zM"
+        },
 	{
             "episodeNumber": 40,
             "displayTitle": "Syntheses of Macfarlandin C and Dendrillolide A with Dr. Tyler Allred",
