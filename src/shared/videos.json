@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "2.10K+",
+        "subscribers": "2.16K+",
         "featuredGuests": 21,
-        "totalViews": "37.2K+"
+        "totalViews": "38.2K+"
     },
     "total-synthesis": [
 	{
@@ -34,6 +34,11 @@
             "episodeNumber": 22,
             "displayTitle": "Synthesis of Talatisamine",
             "videoId": "Qh_Yvhedtyo"
+        },
+	{
+            "episodeNumber": 20.5,
+            "displayTitle": "Síntesis de la Quinina y la Quinidina",
+            "videoId": "ohHihximdmU"
         },
         {
             "episodeNumber": 20,
