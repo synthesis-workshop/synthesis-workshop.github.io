@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "2.16K+",
+        "subscribers": "2.22K+",
         "featuredGuests": 21,
-        "totalViews": "38.2K+"
+        "totalViews": "39.2K+"
     },
     "total-synthesis": [
 	{
@@ -112,7 +112,12 @@
         }
     ], 
     "named-reactions": [
- 	  {
+ 	 {
+            "episodeNumber": 42,
+            "displayTitle": "The Kulinkovich Reaction",
+            "videoId": "vR8k4Zdg2H0"
+        },
+	{
             "episodeNumber": 34,
             "displayTitle": "The Arbuzov Reaction",
             "videoId": "Slkv-h6ohW8"
