@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "2.22K+",
-        "featuredGuests": 21,
-        "totalViews": "39.2K+"
+        "subscribers": "2.30K+",
+        "featuredGuests": 22,
+        "totalViews": "40.7K+"
     },
     "total-synthesis": [
 	{
@@ -164,6 +164,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 43,
+            "displayTitle": "A Logic to Redox-Neutral C-C Bond Formation with Dr. Terry McCallum",
+            "videoId": "LWnNr1h1TfY"
+        },
 	{
             "episodeNumber": 41,
             "displayTitle": "Pd-catalyzed Carbohalogenation of Alkynes with Prof. Christine Le",
