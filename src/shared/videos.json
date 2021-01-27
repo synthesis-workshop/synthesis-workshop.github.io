@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "2.30K+",
+        "subscribers": "2.34K+",
         "featuredGuests": 22,
-        "totalViews": "40.7K+"
+        "totalViews": "41.5K+"
     },
     "total-synthesis": [
 	{
@@ -94,6 +94,11 @@
             "episodeNumber": 7,
             "displayTitle": "(-)-Maximiscin Total Synthesis",
             "videoId": "iiZUaqeXGzs"
+        },
+	{
+            "episodeNumber": 5.5,
+            "displayTitle": "Síntesis de la Cajanusina",
+            "videoId": "wFQ1ideUv10"
         },
         {
             "episodeNumber": 5,
