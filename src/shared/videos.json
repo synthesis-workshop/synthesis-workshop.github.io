@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "2.34K+",
-        "featuredGuests": 22,
-        "totalViews": "41.5K+"
+        "subscribers": "2.35K+",
+        "featuredGuests": 23,
+        "totalViews": "42.0K+"
     },
     "total-synthesis": [
 	{
@@ -169,6 +169,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 44,
+            "displayTitle": "Asymmetric Synthesis with Allylboronic Acids with Sybrand Jonker",
+            "videoId": "fpj9sZXWeQQ"
+        },	
 	{
             "episodeNumber": 43,
             "displayTitle": "A Logic to Redox-Neutral C-C Bond Formation with Dr. Terry McCallum",
