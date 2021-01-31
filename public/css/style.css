@@ -22,8 +22,18 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Raleway", sans-serif;
+}
+
+.table th,
+.table td {
+  vertical-align: middle !important;
 }
 
 /*--------------------------------------------------------------
@@ -127,7 +137,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
 }
 
-.nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
+.nav-menu a:hover,
+.nav-menu .active > a,
+.nav-menu li:hover > a {
   color: #ffc107;
 }
 
@@ -164,7 +176,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #414c64;
 }
 
-.nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
+.nav-menu .drop-down ul a:hover,
+.nav-menu .drop-down ul .active > a,
+.nav-menu .drop-down ul li:hover > a {
   color: #ffc107;
 }
 
@@ -259,7 +273,9 @@ h1, h2, h3, h4, h5, h6 {
   outline: none;
 }
 
-.mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
+.mobile-nav a:hover,
+.mobile-nav .active > a,
+.mobile-nav li:hover > a {
   color: #ffc107;
   text-decoration: none;
 }
@@ -425,7 +441,7 @@ section {
 }
 
 .section-title h2::after {
-  content: '';
+  content: "";
   position: absolute;
   display: block;
   width: 50px;
@@ -522,7 +538,8 @@ section {
   color: #8b97b3;
 }
 
-.about p {
+.about p,
+.about ol {
   font-size: 15px;
   color: #848484;
 }
@@ -722,13 +739,15 @@ section {
   animation: animate-loading 1s linear infinite;
 }
 
-.contact .php-email-form input, .contact .php-email-form textarea {
+.contact .php-email-form input,
+.contact .php-email-form textarea {
   border-radius: 4px;
   box-shadow: none;
   font-size: 14px;
 }
 
-.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
+.contact .php-email-form input:focus,
+.contact .php-email-form textarea:focus {
   border-color: #ffc107;
 }
 
