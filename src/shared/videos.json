@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "counts": {
         "subscribers": "2.42K+",
         "featuredGuests": 24,
@@ -288,3 +289,289 @@
         }
     ]
 }
+=======
+  "counts": {
+    "subscribers": "2.35K+",
+    "featuredGuests": 23,
+    "totalViews": "42.0K+"
+  },
+  "total-synthesis": [
+    {
+      "episodeNumber": 38.5,
+      "displayTitle": "Síntesis del Anhidroryanodol",
+      "videoId": "mbUKTY-S3tM"
+    },
+    {
+      "episodeNumber": 38,
+      "displayTitle": "Synthesis of Anhydroryanodol",
+      "videoId": "_HMtVIXqJH8"
+    },
+    {
+      "episodeNumber": 30.5,
+      "displayTitle": "Síntesis de la Pleuromutilina",
+      "videoId": "fem3DYROyE8"
+    },
+    {
+      "episodeNumber": 30,
+      "displayTitle": "(+)-Pleuromutilin Total Synthesis",
+      "videoId": "0Ksl_2Bs-dQ"
+    },
+    {
+      "episodeNumber": 22.5,
+      "displayTitle": "Síntesis de la Talatisamina",
+      "videoId": "qxLpKgCkgHU"
+    },
+    {
+      "episodeNumber": 22,
+      "displayTitle": "Synthesis of Talatisamine",
+      "videoId": "Qh_Yvhedtyo"
+    },
+    {
+      "episodeNumber": 20.5,
+      "displayTitle": "Síntesis de la Quinina y la Quinidina",
+      "videoId": "ohHihximdmU"
+    },
+    {
+      "episodeNumber": 20,
+      "displayTitle": "Synthesis of Quinine and Quinidine",
+      "videoId": "ulxxfL6X3Ig"
+    },
+    {
+      "episodeNumber": 16.5,
+      "displayTitle": "Síntesis del (-)-PF-1018",
+      "videoId": "c23M74x0n5k"
+    },
+    {
+      "episodeNumber": 16,
+      "displayTitle": "(-)-PF-1018 Total Synthesis",
+      "videoId": "PVKIe49YGtg"
+    },
+    {
+      "episodeNumber": 14.5,
+      "displayTitle": "Síntesis de la Scabrolida A",
+      "videoId": "ZxrraGqi8cg"
+    },
+    {
+      "episodeNumber": 14,
+      "displayTitle": "(-)-Scabrolide A Total Synthesis",
+      "videoId": "TcxcbQ0412U"
+    },
+    {
+      "episodeNumber": 11.5,
+      "displayTitle": "Síntesis del Tafluprost",
+      "videoId": "NyRKY52xzy0"
+    },
+    {
+      "episodeNumber": 11,
+      "displayTitle": "Tafluprost Total Synthesis",
+      "videoId": "84EIlfTx4Eo"
+    },
+    {
+      "episodeNumber": 10,
+      "displayTitle": "Brevianamide A Synthesis with Dr. Blane Zavesky",
+      "videoId": "PZItREnuEHI"
+    },
+    {
+      "episodeNumber": 9,
+      "displayTitle": "(-)-Bactobolin A Total Synthesis",
+      "videoId": "HL6xcZjl_x4"
+    },
+    {
+      "episodeNumber": 7.5,
+      "displayTitle": "Síntesis de la Maximiscina",
+      "videoId": "AixsGL-iQrI"
+    },
+    {
+      "episodeNumber": 7,
+      "displayTitle": "(-)-Maximiscin Total Synthesis",
+      "videoId": "iiZUaqeXGzs"
+    },
+    {
+      "episodeNumber": 5.5,
+      "displayTitle": "Síntesis de la Cajanusina",
+      "videoId": "wFQ1ideUv10"
+    },
+    {
+      "episodeNumber": 5,
+      "displayTitle": "(-)-Cajanusine Total Synthesis",
+      "videoId": "aIdHnyOwAOk"
+    },
+    {
+      "episodeNumber": 4,
+      "displayTitle": "(-)-Curvulamine Total Synthesis",
+      "videoId": "Au5QSvD--Gc"
+    },
+    {
+      "episodeNumber": 2,
+      "displayTitle": "Bryostatin 1 Total Synthesis",
+      "videoId": "7_deI2poP-U"
+    }
+  ],
+  "named-reactions": [
+    {
+      "episodeNumber": 42,
+      "displayTitle": "The Kulinkovich Reaction",
+      "videoId": "vR8k4Zdg2H0"
+    },
+    {
+      "episodeNumber": 34,
+      "displayTitle": "The Arbuzov Reaction",
+      "videoId": "Slkv-h6ohW8"
+    },
+    {
+      "episodeNumber": 26,
+      "displayTitle": "The Julia-Lythgoe Olefination",
+      "videoId": "2asmyACX1ls"
+    },
+    {
+      "episodeNumber": 17,
+      "displayTitle": "The Baylis-Hillman Reaction",
+      "videoId": "N74E-4_TQ3k"
+    },
+    {
+      "episodeNumber": 15,
+      "displayTitle": "The Baeyer-Villiger Oxidation",
+      "videoId": "w8ZaLm7qlLk"
+    },
+    {
+      "episodeNumber": 13,
+      "displayTitle": "The Birch Reduction",
+      "videoId": "A2ksWMI8xnI"
+    },
+    {
+      "episodeNumber": 6.5,
+      "displayTitle": "La Ciclación de Nazarov",
+      "videoId": "7vAfAG6CSvo"
+    },
+    {
+      "episodeNumber": 6,
+      "displayTitle": "The Nazarov Cyclization",
+      "videoId": "nfoBunOTkVk"
+    },
+    {
+      "episodeNumber": 3,
+      "displayTitle": "The Mitsunobu Reaction",
+      "videoId": "qQdwL0HgB1c"
+    },
+    {
+      "episodeNumber": 1,
+      "displayTitle": "The Hofmann Rearrangement",
+      "videoId": "DJhopfFG5Sc"
+    }
+  ],
+  "research-spotlight": [
+    {
+      "episodeNumber": 44,
+      "displayTitle": "Asymmetric Synthesis with Allylboronic Acids with Sybrand Jonker",
+      "videoId": "fpj9sZXWeQQ"
+    },
+    {
+      "episodeNumber": 43,
+      "displayTitle": "A Logic to Redox-Neutral C-C Bond Formation with Dr. Terry McCallum",
+      "videoId": "LWnNr1h1TfY"
+    },
+    {
+      "episodeNumber": 41,
+      "displayTitle": "Pd-catalyzed Carbohalogenation of Alkynes with Prof. Christine Le",
+      "videoId": "7oNvraK7-zM"
+    },
+    {
+      "episodeNumber": 40,
+      "displayTitle": "Syntheses of Macfarlandin C and Dendrillolide A with Dr. Tyler Allred",
+      "videoId": "lW95iPs9TGU"
+    },
+    {
+      "episodeNumber": 39,
+      "displayTitle": "Decatungstate Photocatalysis in Flow with Dr. Gabriele Laudadio",
+      "videoId": "Hx_ox_T1fBU"
+    },
+    {
+      "episodeNumber": 37,
+      "displayTitle": "Total Synthesis of (±)-Leonuketal with Dr. Phillip Grant",
+      "videoId": "gYtGywCKV-0"
+    },
+    {
+      "episodeNumber": 36,
+      "displayTitle": "High-valent Bismuth Redox Catalysis with Dr. Oriol Planas",
+      "videoId": "EYhVXwkkmSA"
+    },
+    {
+      "episodeNumber": 35,
+      "displayTitle": "Visible-light-mediated [2+2] Photocycloadditions with Marc Becker",
+      "videoId": "-IOsBAN3Oaw"
+    },
+    {
+      "episodeNumber": 32,
+      "displayTitle": "Synthesis of Repraesentin F with Dr. Sofia Ferrer",
+      "videoId": "3gjuhu8DL40"
+    },
+    {
+      "episodeNumber": 31,
+      "displayTitle": "Visible-light [2+2] Cycloadditions with Dr. Alberto Vega-Peñaloza",
+      "videoId": "P9CindS9Nig"
+    },
+    {
+      "episodeNumber": 29,
+      "displayTitle": "Cyclopropanation by Oxidative Umpolung with Dr. Adriano Bauer",
+      "videoId": "wwuIT8CVQAs"
+    },
+    {
+      "episodeNumber": 28,
+      "displayTitle": "Dual Photoredox/Nickel Catalysis with Sebastian Gisbertz",
+      "videoId": "1jXO8883G0A"
+    },
+    {
+      "episodeNumber": 27,
+      "displayTitle": "Synthesis of Picrotoxinin and Picrotin with Dr. Steven Crossley",
+      "videoId": "93R1yiKS3TI"
+    },
+    {
+      "episodeNumber": 25,
+      "displayTitle": "Synthesis of Optically Active 7-Membered Rings with Michele Garbo",
+      "videoId": "gHZ0h71_oo0"
+    },
+    {
+      "episodeNumber": 24,
+      "displayTitle": "Total Synthesis of Chilocorine C with Vlad Lisnyak",
+      "videoId": "WaHY8GGDOCI"
+    },
+    {
+      "episodeNumber": 23,
+      "displayTitle": "Asymmetric Hydrogenation of Oximes with Dr. Josep Mas-Roselló",
+      "videoId": "BDZibkCTevw"
+    },
+    {
+      "episodeNumber": 21,
+      "displayTitle": "Catalytic Hauser-Kraus Annulations with Mohammed Sharique",
+      "videoId": "fYhV8nAhlQI"
+    },
+    {
+      "episodeNumber": 19,
+      "displayTitle": "Diastereoselective Conjugate Additions with Michael Liang",
+      "videoId": "sKYV1XeMGHs"
+    },
+    {
+      "episodeNumber": 12,
+      "displayTitle": "Homobenzylic Oxygenation with Dr. Joshua McManus",
+      "videoId": "X5Di4hn2hAc"
+    },
+    {
+      "episodeNumber": 8,
+      "displayTitle": "Nickel-catalyzed Hydroarylation with Dr. Noam Saper",
+      "videoId": "ebsyGNeHAwA"
+    }
+  ],
+  "culture-of-chemistry": [
+    {
+      "episodeNumber": 33,
+      "displayTitle": "Communication in Organic Synthesis (Virtual Talk at Towson University)",
+      "videoId": "U7fLci-Xq7I"
+    },
+    {
+      "episodeNumber": 18,
+      "displayTitle": "Imposter Syndrome Discussion with Dr. Marc Reid",
+      "videoId": "rodNvF6ZW6Q"
+    }
+  ]
+}
+>>>>>>> 4ebabc3511a3c154c8d3d0e3497ab8f733c43f8f
