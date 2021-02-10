@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "2.42K+",
+        "subscribers": "2.48K+",
         "featuredGuests": 24,
-        "totalViews": "43.3K+"
+        "totalViews": "44.7K+"
     },
     "total-synthesis": [
 	{
@@ -105,6 +105,11 @@
             "episodeNumber": 5,
             "displayTitle": "(-)-Cajanusine Total Synthesis",
             "videoId": "aIdHnyOwAOk"
+        },
+ 	{
+            "episodeNumber": 4.5,
+            "displayTitle": "Síntesis de la Curvulamina",
+            "videoId": "96n9u48IJN0"
         },
         {
             "episodeNumber": 4,
