@@ -1,11 +1,16 @@
 
 {
     "counts": {
-        "subscribers": "2.48K+",
+        "subscribers": "2.51K+",
         "featuredGuests": 24,
-        "totalViews": "44.7K+"
+        "totalViews": "45.5K+"
     },
     "total-synthesis": [
+	{
+            "episodeNumber": 46,
+            "displayTitle": "The Two-Phase Approach to Taxanes",
+            "videoId": "dTkSpH7bmmY"
+        },	
 	{
             "episodeNumber": 38.5,
             "displayTitle": "Síntesis del Anhidroryanodol",
