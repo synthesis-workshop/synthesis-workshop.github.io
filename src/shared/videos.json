@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "2.51K+",
-        "featuredGuests": 24,
-        "totalViews": "45.5K+"
+        "subscribers": "2.76K+",
+        "featuredGuests": 25,
+        "totalViews": "48.8K+"
     },
     "total-synthesis": [
 	{
@@ -180,6 +180,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 47,
+            "displayTitle": "Demystifying the Soai Reaction with Dr. Soumitra Athavale",
+            "videoId": "mMyJ5hcKQ_Q"
+        },
 	{
             "episodeNumber": 45,
             "displayTitle": "The Schlenk Line Survival Guide with Dr. Andryj Borys",
