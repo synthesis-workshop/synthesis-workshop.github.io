@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "2.76K+",
-        "featuredGuests": 25,
-        "totalViews": "48.8K+"
+        "subscribers": "3.01K+",
+        "featuredGuests": 26,
+        "totalViews": "54.7K+"
     },
     "total-synthesis": [
 	{
@@ -180,6 +180,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 48,
+            "displayTitle": "Photochemical Alkene Dicarbofunctionalization with Mark Campbell",
+            "videoId": "e4MXfnATcrE"
+        },
 	{
             "episodeNumber": 47,
             "displayTitle": "Demystifying the Soai Reaction with Dr. Soumitra Athavale",
