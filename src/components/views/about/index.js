@@ -90,7 +90,7 @@ export default () => {
                     to work in the Gouverneur group. In 2020, he was awarded a
                     Marie Skłodowska-Curie Individual Fellowship and a Junior
                     Research Fellowship at Kellogg College (University of
-                    Oxford). In 2021, he became a Scientist at Janssen Pharmaceutical Companies of Johnson & Johnson in the Discovery Process Research (DPR) group.
+                    Oxford). In 2021, he became a Scientist at Janssen Pharmaceutical Companies of Johnson & Johnson in the Discovery Process Research (DPR) group in Belgium.
                   </p>
                 </div>
               </div>
