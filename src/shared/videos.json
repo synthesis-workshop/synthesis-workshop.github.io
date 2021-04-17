@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.01K+",
-        "featuredGuests": 26,
-        "totalViews": "54.7K+"
+        "subscribers": "3.11K+",
+        "featuredGuests": 27,
+        "totalViews": "58.0K+"
     },
     "total-synthesis": [
 	{
@@ -180,6 +180,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 49,
+            "displayTitle": "Late-stage Oxidative C(sp3)–H Methylation with Dr. Kaibo Feng",
+            "videoId": "WhwdkjSlwRE"
+        },
 	{
             "episodeNumber": 48,
             "displayTitle": "Photochemical Alkene Dicarbofunctionalization with Mark Campbell",
