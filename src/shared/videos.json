@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.11K+",
+        "subscribers": "3.21K+",
         "featuredGuests": 27,
-        "totalViews": "58.0K+"
+        "totalViews": "60.9K+"
     },
     "total-synthesis": [
 	{
@@ -302,6 +302,11 @@
         }
     ],
     "culture-of-chemistry": [
+	{
+            "episodeNumber": 50,
+            "displayTitle": "Idea Generation and Project Management",
+            "videoId": "dKpJlQST3vo"
+        },
 	{
             "episodeNumber": 33,
             "displayTitle": "Communication in Organic Synthesis (Virtual Talk at Towson University)",
