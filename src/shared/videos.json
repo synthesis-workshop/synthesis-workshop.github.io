@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.21K+",
+        "subscribers": "3.26K+",
         "featuredGuests": 27,
-        "totalViews": "60.9K+"
+        "totalViews": "62.9K+"
     },
     "total-synthesis": [
 	{
@@ -85,6 +85,11 @@
             "episodeNumber": 10,
             "displayTitle": "Brevianamide A Synthesis with Dr. Blane Zavesky",
             "videoId": "PZItREnuEHI"
+        },
+      {
+            "episodeNumber": 9.5,
+            "displayTitle": "Síntesis de la Bactobolina A",
+            "videoId": "GBtnpqY-IV4"
         },
         {
             "episodeNumber": 9,
