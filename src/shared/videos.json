@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.30K+",
-        "featuredGuests": 28,
-        "totalViews": "64.7K+"
+        "subscribers": "3.37K+",
+        "featuredGuests": 29,
+        "totalViews": "67.1K+"
     },
     "total-synthesis": [
 	{
@@ -185,6 +185,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 52,
+            "displayTitle": "Elucidating Ni-catalyzed Negishi Couplings with Craig Day",
+            "videoId": "IOe9kESs1h8"
+        },
 	{
             "episodeNumber": 51,
             "displayTitle": "Synthesis and Reactivity of 3-s-Tetrazines with Dr. Simon Schnell",
