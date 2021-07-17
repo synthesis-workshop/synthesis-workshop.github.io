@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.42K+",
-        "featuredGuests": 30,
-        "totalViews": "69.4K+"
+        "subscribers": "3.49K+",
+        "featuredGuests": 31,
+        "totalViews": "72.3K+"
     },
     "total-synthesis": [
 	{
@@ -185,6 +185,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 54,
+            "displayTitle": "Late-Stage C–H Oxygenation And Iodination with Lalita Tanwar",
+            "videoId": "tkpf1zvkI5c"
+        },
 	{
             "episodeNumber": 53,
             "displayTitle": "Nickel-catalyzed Ketone Synthesis with Dr. Thomas Verheyen",
