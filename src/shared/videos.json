@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.54K+",
-        "featuredGuests": 31,
-        "totalViews": "74.3K+"
+        "subscribers": "3.59K+",
+        "featuredGuests": 32,
+        "totalViews": "76.2K+"
     },
     "total-synthesis": [
 	{
@@ -190,6 +190,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 56,
+            "displayTitle": "Tetraarylethene Luminogen Synthesis with Dr. Abdusalom Suleymanov",
+            "videoId": "hn9i2DPC4CQ"
+        },
 	{
             "episodeNumber": 54,
             "displayTitle": "Late-Stage C–H Oxygenation And Iodination with Lalita Tanwar",
