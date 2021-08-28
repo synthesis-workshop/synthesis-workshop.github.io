@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.59K+",
-        "featuredGuests": 32,
-        "totalViews": "76.2K+"
+        "subscribers": "3.77K+",
+        "featuredGuests": 33,
+        "totalViews": "79.2K+"
     },
     "total-synthesis": [
 	{
@@ -190,6 +190,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 57,
+            "displayTitle": "Ruthenabenzene: A Robust Precatalyst with Saswata Gupta",
+            "videoId": "SrSCFhFb_9c"
+        },	
 	{
             "episodeNumber": 56,
             "displayTitle": "Tetraarylethene Luminogen Synthesis with Dr. Abdusalom Suleymanov",
