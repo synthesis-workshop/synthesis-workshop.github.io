@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.77K+",
-        "featuredGuests": 33,
-        "totalViews": "79.2K+"
+        "subscribers": "3.89K+",
+        "featuredGuests": 34,
+        "totalViews": "82.4K+"
     },
     "total-synthesis": [
 	{
@@ -190,6 +190,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 58,
+            "displayTitle": "Rearrangements of Indole-based Onium-Ylides with Vaishnavi Nair",
+            "videoId": "foIbJr0hraM"
+        },
 	{
             "episodeNumber": 57,
             "displayTitle": "Ruthenabenzene: A Robust Precatalyst with Saswata Gupta",
