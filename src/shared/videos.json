@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "3.89K+",
-        "featuredGuests": 34,
-        "totalViews": "82.4K+"
+        "subscribers": "3.94K+",
+        "featuredGuests": 35,
+        "totalViews": "84.4K+"
     },
     "total-synthesis": [
 	{
@@ -190,6 +190,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 59,
+            "displayTitle": "Total Synthesis of Altemicidin with Dr. Claire Harmange Magnani",
+            "videoId": "q1oOFId7sPk"
+        },
 	{
             "episodeNumber": 58,
             "displayTitle": "Rearrangements of Indole-based Onium-Ylides with Vaishnavi Nair",
