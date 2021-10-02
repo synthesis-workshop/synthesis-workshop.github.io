@@ -1,11 +1,16 @@
 
 {
     "counts": {
-        "subscribers": "4.01K+",
+        "subscribers": "4.04K+",
         "featuredGuests": 36,
-        "totalViews": "86.4K+"
+        "totalViews": "88.4K+"
     },
     "total-synthesis": [
+	{
+            "episodeNumber": 61,
+            "displayTitle": "(-)-Daphnezomines A and B Total Synthesis",
+            "videoId": "5A3spiOjhyc"
+        },
 	{
             "episodeNumber": 46,
             "displayTitle": "The Two-Phase Approach to Taxanes",
