@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.04K+",
-        "featuredGuests": 36,
-        "totalViews": "88.4K+"
+        "subscribers": "4.07K+",
+        "featuredGuests": 37,
+        "totalViews": "90.0K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 62,
+            "displayTitle": "Total Synthesis of Ambruticin J with James Bowen",
+            "videoId": "UBYw1XHpYCI"
+        },
 	{
             "episodeNumber": 60,
             "displayTitle": "INVEST Emitters with Dr. Robert Pollice",
