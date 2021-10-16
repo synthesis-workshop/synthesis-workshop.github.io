@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.07K+",
-        "featuredGuests": 37,
-        "totalViews": "90.0K+"
+        "subscribers": "4.11K+",
+        "featuredGuests": 38,
+        "totalViews": "91.7K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 63,
+            "displayTitle": "Total Synthesis of Nortopsentin D with Dr. Katarina Keel",
+            "videoId": "GQ22BoLz_rk"
+        },
 	{
             "episodeNumber": 62,
             "displayTitle": "Total Synthesis of Ambruticin J with James Bowen",
