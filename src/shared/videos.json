@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.11K+",
-        "featuredGuests": 38,
-        "totalViews": "91.7K+"
+        "subscribers": "4.16K+",
+        "featuredGuests": 39,
+        "totalViews": "93.4K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 64,
+            "displayTitle": "Total Synthesis of Leucophyllidine with Dr. Aurapat Ngamnithiporn",
+            "videoId": "0bTXYEPgVDE"
+        },
 	{
             "episodeNumber": 63,
             "displayTitle": "Total Synthesis of Nortopsentin D with Dr. Katarina Keel",
