@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.16K+",
-        "featuredGuests": 39,
-        "totalViews": "93.4K+"
+        "subscribers": "4.17K+",
+        "featuredGuests": 40,
+        "totalViews": "94.6K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 65,
+            "displayTitle": "Total Synthesis of (-)-Strempeliopine with Xianhuang Zeng",
+            "videoId": "MWXK2elRGOk"
+        },
 	{
             "episodeNumber": 64,
             "displayTitle": "Total Synthesis of Leucophyllidine with Dr. Aurapat Ngamnithiporn",
