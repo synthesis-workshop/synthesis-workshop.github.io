@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.17K+",
-        "featuredGuests": 40,
-        "totalViews": "94.6K+"
+        "subscribers": "4.20K+",
+        "featuredGuests": 41,
+        "totalViews": "95.8K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,10 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 66,
+            "displayTitle": "Aziridine Synthesis via Electrogenerated Dications with Dylan Holst": "9ecESNg1hdg"
+        },
 	{
             "episodeNumber": 65,
             "displayTitle": "Total Synthesis of (-)-Strempeliopine with Xianhuang Zeng",
