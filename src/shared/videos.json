@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.20K+",
-        "featuredGuests": 41,
-        "totalViews": "95.8K+"
+        "subscribers": "4.25K+",
+        "featuredGuests": 42,
+        "totalViews": "97.6K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 67,
+            "displayTitle": "Synthesis of Acridinium Photoredox Catalysts with Dr. Alex White",
+            "videoId": "shFQf4tLlC4"
+        },
 	{
             "episodeNumber": 66,
             "displayTitle": "Aziridine Synthesis via Electrogenerated Dications with Dylan Holst",
