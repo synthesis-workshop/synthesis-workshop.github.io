@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.25K+",
-        "featuredGuests": 42,
-        "totalViews": "97.6K+"
+        "subscribers": "4.29K+",
+        "featuredGuests": 43,
+        "totalViews": "99.6K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 68,
+            "displayTitle": "Photochemical Truce-Smiles Rearrangements with Dr. David Whalley ",
+            "videoId": "mxlsmuYOUKA"
+        },
 	{
             "episodeNumber": 67,
             "displayTitle": "Synthesis of Acridinium Photoredox Catalysts with Dr. Alex White",
