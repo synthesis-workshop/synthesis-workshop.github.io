@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.29K+",
-        "featuredGuests": 43,
-        "totalViews": "99.6K+"
+        "subscribers": "4.34K+",
+        "featuredGuests": 44,
+        "totalViews": "101.5K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 69,
+            "displayTitle": "Electron-primed Photoredox Catalysis with Alyah Chmiel",
+            "videoId": "ed2RyhLzCaY"
+        },
 	{
             "episodeNumber": 68,
             "displayTitle": "Photochemical Truce-Smiles Rearrangements with Dr. David Whalley ",
