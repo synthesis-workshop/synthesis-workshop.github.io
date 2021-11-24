@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.34K+",
-        "featuredGuests": 44,
-        "totalViews": "101.5K+"
+        "subscribers": "4.37K+",
+        "featuredGuests": 45,
+        "totalViews": "103.2K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 70,
+            "displayTitle": "Quantifying Substituent Steric Effects with Aidan McFord",
+            "videoId": "vSb4_z8xS_4"
+        },
 	{
             "episodeNumber": 69,
             "displayTitle": "Electron-primed Photoredox Catalysis with Alyah Chmiel",
