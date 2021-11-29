@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.37K+",
-        "featuredGuests": 45,
-        "totalViews": "103.2K+"
+        "subscribers": "4.48K+",
+        "featuredGuests": 46,
+        "totalViews": "105.5K+"
     },
     "total-synthesis": [
 	{
@@ -195,6 +195,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 71,
+            "displayTitle": "Selective Dearomatization of Phenols with Prof. Sarah Wengryniuk",
+            "videoId": "VAZC_NZyEr4"
+        },
 	{
             "episodeNumber": 70,
             "displayTitle": "Quantifying Substituent Steric Effects with Aidan McFord",
