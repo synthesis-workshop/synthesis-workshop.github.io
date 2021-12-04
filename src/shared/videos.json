@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.48K+",
-        "featuredGuests": 46,
-        "totalViews": "105.5K+"
+        "subscribers": "4.58K+",
+        "featuredGuests": 47,
+        "totalViews": "107.9K+"
     },
     "total-synthesis": [
 	{
@@ -138,7 +138,12 @@
         }
     ], 
     "named-reactions": [
- 	 {
+ 	{
+            "episodeNumber": 72,
+            "displayTitle": "The Schwartz Reagent",
+            "videoId": "5OTYSKrGUGA"
+        }, 
+	{
             "episodeNumber": 55,
             "displayTitle": "The Eschenmoser-Claisen Rearrangement",
             "videoId": "WWpXMB6zg2E"
@@ -195,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 73,
+            "displayTitle": "Enantioselective Synthesis of Ammonium Cations with Dr. Mark Walsh",
+            "videoId": "yzsBVEQxY1Q"
+        },
 	{
             "episodeNumber": 71,
             "displayTitle": "Selective Dearomatization of Phenols with Prof. Sarah Wengryniuk",
