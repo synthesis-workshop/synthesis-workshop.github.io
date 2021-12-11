@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.58K+",
-        "featuredGuests": 47,
-        "totalViews": "107.9K+"
+        "subscribers": "4.64K+",
+        "featuredGuests": 48,
+        "totalViews": "110.6K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 74,
+            "displayTitle": "Synthesis of Uncommon Heterocycles with Dr. David Leboeuf",
+            "videoId": "H43b0A0BN9k"
+        },
 	{
             "episodeNumber": 73,
             "displayTitle": "Enantioselective Synthesis of Ammonium Cations with Dr. Mark Walsh",
