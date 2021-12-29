@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.69K+",
-        "featuredGuests": 48,
-        "totalViews": "113.3K+"
+        "subscribers": "4.79K+",
+        "featuredGuests": 49,
+        "totalViews": "117.0K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 76,
+            "displayTitle": "Chiral N-Heterocyclic Carbene Synthesis with Dr. Vasudevan Dhayalan",
+            "videoId": "9u8TadH9OcQ"
+        },
 	{
             "episodeNumber": 75,
             "displayTitle": "The Phospha-Bora-Wittig Reaction with Dr. Andryj Borys",
