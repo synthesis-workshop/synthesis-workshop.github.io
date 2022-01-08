@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.79K+",
-        "featuredGuests": 49,
-        "totalViews": "117.0K+"
+        "subscribers": "4.82K+",
+        "featuredGuests": 50,
+        "totalViews": "118.9K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 77,
+            "displayTitle": "Photochemical Azetine Synthesis with Emily Wearing",
+            "videoId": "1J7WeQIoP5Y"
+        },
 	{
             "episodeNumber": 76,
             "displayTitle": "Chiral N-Heterocyclic Carbene Synthesis with Dr. Vasudevan Dhayalan",
