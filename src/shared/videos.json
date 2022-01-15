@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.82K+",
-        "featuredGuests": 50,
-        "totalViews": "118.9K+"
+        "subscribers": "4.86K+",
+        "featuredGuests": 51,
+        "totalViews": "120.9K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 78,
+            "displayTitle": "Synthesis of Cardiotonic Steroids with Dr. Zachary Fejedelem",
+            "videoId": "8a_sXvbUIMk"
+        },
 	{
             "episodeNumber": 77,
             "displayTitle": "Photochemical Azetine Synthesis with Emily Wearing",
