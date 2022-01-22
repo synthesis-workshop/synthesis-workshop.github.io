@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.86K+",
-        "featuredGuests": 51,
-        "totalViews": "120.9K+"
+        "subscribers": "4.91K+",
+        "featuredGuests": 52,
+        "totalViews": "122.8K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 79,
+            "displayTitle": "Catalysis with Pyridone Borane Complexes with Dr. Urs Gellrich",
+            "videoId": "JF0E4vsxXk0"
+        },
 	{
             "episodeNumber": 78,
             "displayTitle": "Synthesis of Cardiotonic Steroids with Dr. Zachary Fejedelem",
