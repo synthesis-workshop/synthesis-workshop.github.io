@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.91K+",
-        "featuredGuests": 52,
-        "totalViews": "122.8K+"
+        "subscribers": "4.94K+",
+        "featuredGuests": 53,
+        "totalViews": "124.6K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 80,
+            "displayTitle": "Enantioselective Intermolecular Amination with Alexander Fanourakis",
+            "videoId": "u_icKys51dU"
+        },
 	{
             "episodeNumber": 79,
             "displayTitle": "Catalysis with Pyridone Borane Complexes with Dr. Urs Gellrich",
