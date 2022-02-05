@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.94K+",
-        "featuredGuests": 53,
-        "totalViews": "124.6K+"
+        "subscribers": "4.97K+",
+        "featuredGuests": 54,
+        "totalViews": "126.7K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 81,
+            "displayTitle": "Enantioselective 1,2-Boronate Rearrangements with Dr. Hayden Sharma",
+            "videoId": "Nw_zUKqcgvM"
+        },
 	{
             "episodeNumber": 80,
             "displayTitle": "Enantioselective Intermolecular Amination with Alexander Fanourakis",
