@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "4.97K+",
-        "featuredGuests": 54,
-        "totalViews": "126.7K+"
+        "subscribers": "5.02K+",
+        "featuredGuests": 55,
+        "totalViews": "129.0K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 82,
+            "displayTitle": "Donor-acceptor Conjugated Polymers with Stephen Koehler",
+            "videoId": "LZyeH46n6wY"
+        },
 	{
             "episodeNumber": 81,
             "displayTitle": "Enantioselective 1,2-Boronate Rearrangements with Dr. Hayden Sharma",
