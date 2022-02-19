@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.02K+",
-        "featuredGuests": 55,
-        "totalViews": "129.0K+"
+        "subscribers": "5.06K+",
+        "featuredGuests": 56,
+        "totalViews": "131.0K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 83,
+            "displayTitle": "Manganese-Promoted 1,2-Radical Migrations with Hayden Carder",
+            "videoId": "z0qiNfkdL10"
+        },
 	{
             "episodeNumber": 82,
             "displayTitle": "Donor-acceptor Conjugated Polymers with Stephen Koehler",
