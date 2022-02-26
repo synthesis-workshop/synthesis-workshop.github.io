@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.06K+",
-        "featuredGuests": 56,
-        "totalViews": "131.0K+"
+        "subscribers": "5.09K+",
+        "featuredGuests": 57,
+        "totalViews": "132.9K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 84,
+            "displayTitle": "Nickel-catalyzed Domino Reactions with Kirsten Hewitt",
+            "videoId": "p4V27GFGiWc"
+        },
 	{
             "episodeNumber": 83,
             "displayTitle": "Manganese-Promoted 1,2-Radical Migrations with Hayden Carder",
