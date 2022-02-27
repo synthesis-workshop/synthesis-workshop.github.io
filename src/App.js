@@ -7,11 +7,11 @@ import Home from "./components/views/home";
 
 const history = createBrowserHistory();
 
+ReactGA.initialize("UA-177211479-1");
+
 // Log the current page we're on since history.listen only listens for changes
 ReactGA.set({ page: history.location.pathname, anonymizeIp: true });
 ReactGA.pageview(history.location.pathname);
-
-ReactGA.initialize("UA-177211479-1");
 
 // https://stackoverflow.com/a/34837445/11646872
 history.listen((location) => {
