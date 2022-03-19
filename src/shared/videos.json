@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.15K+",
-        "featuredGuests": 59,
-        "totalViews": "136.7K+"
+        "subscribers": "5.17K+",
+        "featuredGuests": 60,
+        "totalViews": "138.5K+"
     },
     "total-synthesis": [
 	{
@@ -200,6 +200,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 87,
+            "displayTitle": "Nickel Versus Palladium in Catalysis with Dr. David Nelson",
+            "videoId": "P70tsMMnvHc"
+        },
 	{
             "episodeNumber": 86,
             "displayTitle": "Contra-Thermodynamic Positional Olefin Isomerization with Kuo Zhao",
