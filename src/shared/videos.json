@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.23K+",
-        "featuredGuests": 60,
-        "totalViews": "140.7K+"
+        "subscribers": "5.27K+",
+        "featuredGuests": 61,
+        "totalViews": "142.9K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 89,
+            "displayTitle": "Total Synthesis of Azitine with Dr. Jie Liu",
+            "videoId": "EIfvV2XAZEo"
+        },
 	{
             "episodeNumber": 87,
             "displayTitle": "Nickel Versus Palladium in Catalysis with Dr. David Nelson",
