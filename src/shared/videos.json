@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.27K+",
-        "featuredGuests": 61,
-        "totalViews": "142.9K+"
+        "subscribers": "5.32K+",
+        "featuredGuests": 62,
+        "totalViews": "145.7K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 90,
+            "displayTitle": "Total Syntheses of Strasseriolide A and B with Dr. Leah Salituro",
+            "videoId": "xKtJKjDTx28"
+        },
 	{
             "episodeNumber": 89,
             "displayTitle": "Total Synthesis of Azitine with Dr. Jie Liu",
