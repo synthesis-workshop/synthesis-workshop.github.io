@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.45K+",
-        "featuredGuests": 63,
-        "totalViews": "150.4K+"
+        "subscribers": "5.50K+",
+        "featuredGuests": 64,
+        "totalViews": "152.2K+"
     },
     "total-synthesis": [
 	{
@@ -206,11 +206,15 @@
     ],
     "research-spotlight": [
 	{
+            "episodeNumber": 93,
+            "displayTitle": "Synthesis of Enamides via Amide Activation with Philipp Spiess",
+            "videoId": "v0RHjFeq4Xc"
+        },
+	{
             "episodeNumber": 92,
             "displayTitle": "Iron-catalyzed Azidation with Craig Day",
             "videoId": "Ks2zTgMjLUI"
         },
-	{
 	{
             "episodeNumber": 91,
             "displayTitle": "Synthetic Phosphonic Acids with Dr. Katharina Pallitsch",
