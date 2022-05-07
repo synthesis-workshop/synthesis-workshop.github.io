@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.50K+",
-        "featuredGuests": 64,
-        "totalViews": "152.2K+"
+        "subscribers": "5.56K+",
+        "featuredGuests": 65,
+        "totalViews": "154.2K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 94,
+            "displayTitle": "Deuterium and Tritium Labeling with Sara Kopf and Florian Bourriquen",
+            "videoId": "fNRwVofV4iI"
+        },
 	{
             "episodeNumber": 93,
             "displayTitle": "Synthesis of Enamides via Amide Activation with Philipp Spiess",
