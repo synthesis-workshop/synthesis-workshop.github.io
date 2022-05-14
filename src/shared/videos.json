@@ -2,8 +2,8 @@
 {
     "counts": {
         "subscribers": "5.56K+",
-        "featuredGuests": 65,
-        "totalViews": "154.2K+"
+        "featuredGuests": 66,
+        "totalViews": "156.5K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 95,
+            "displayTitle": "Electrochemical Terpene Synthesis with Maximilian Palkowitz",
+            "videoId": "DgqAe-vyOZc"
+        },
 	{
             "episodeNumber": 94,
             "displayTitle": "Deuterium and Tritium Labeling with Sara Kopf and Florian Bourriquen",
