@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "5.56K+",
-        "featuredGuests": 66,
-        "totalViews": "156.5K+"
+        "subscribers": "6.05K+",
+        "featuredGuests": 67,
+        "totalViews": "159.6K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 96,
+            "displayTitle": "Hydrogenative C-H Insertion with Dr. Sebastian Peil",
+            "videoId": "Fz0hsDgqYz0"
+        },
 	{
             "episodeNumber": 95,
             "displayTitle": "Electrochemical Terpene Synthesis with Maximilian Palkowitz",
