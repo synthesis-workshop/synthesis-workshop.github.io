@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.05K+",
-        "featuredGuests": 67,
-        "totalViews": "159.6K+"
+        "subscribers": "6.22K+",
+        "featuredGuests": 68,
+        "totalViews": "161.3K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 97,
+            "displayTitle": "Diketopiperazine Catalysis with Prof. Alexandros Zografos",
+            "videoId": "DkEysiJZifI"
+        },
 	{
             "episodeNumber": 96,
             "displayTitle": "Hydrogenative C-H Insertion with Dr. Sebastian Peil",
