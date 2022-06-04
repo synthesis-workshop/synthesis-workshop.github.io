@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.22K+",
-        "featuredGuests": 68,
-        "totalViews": "161.3K+"
+        "subscribers": "6.37K+",
+        "featuredGuests": 69,
+        "totalViews": "163.5K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 98,
+            "displayTitle": "Radical Polar Annulation Reactions with Dr. Christopher Kelly",
+            "videoId": "uBOvBc5qXRg"
+        },
 	{
             "episodeNumber": 97,
             "displayTitle": "Diketopiperazine Catalysis with Prof. Alexandros Zografos",
