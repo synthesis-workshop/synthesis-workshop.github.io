@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.37K+",
-        "featuredGuests": 69,
-        "totalViews": "163.5K+"
+        "subscribers": "6.46K+",
+        "featuredGuests": 70,
+        "totalViews": "165.4K+"
     },
     "total-synthesis": [
 	{
@@ -205,6 +205,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 99,
+            "displayTitle": "Asymmetric C–P Coupling with Dr. Anirban Mondal",
+            "videoId": "biVG3QNizaw"
+        },
 	{
             "episodeNumber": 98,
             "displayTitle": "Radical Polar Annulation Reactions with Dr. Christopher Kelly",
