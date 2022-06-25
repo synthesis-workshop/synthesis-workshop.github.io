@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.54K+",
-        "featuredGuests": 70,
-        "totalViews": "166.7K+"
+        "subscribers": "6.63K+",
+        "featuredGuests": 71,
+        "totalViews": "169.0K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 101,
+            "displayTitle": "Low-Valent Tungsten Redox Catalysis with Dr. Tanner Jankins",
+            "videoId": "S4-HXIIoN6U"
+        },
 	{
             "episodeNumber": 99,
             "displayTitle": "Asymmetric C–P Coupling with Dr. Anirban Mondal",
