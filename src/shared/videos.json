@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.63K+",
-        "featuredGuests": 71,
-        "totalViews": "169.0K+"
+        "subscribers": "6.84K+",
+        "featuredGuests": 72,
+        "totalViews": "172.6K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 102,
+            "displayTitle": "C–H Diversification via Radical Chain Transfer with Dr. Tim Fazekas",
+            "videoId": "C3nakFJFsnM"
+        },
 	{
             "episodeNumber": 101,
             "displayTitle": "Low-Valent Tungsten Redox Catalysis with Dr. Tanner Jankins",
