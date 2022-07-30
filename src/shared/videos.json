@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.84K+",
-        "featuredGuests": 72,
-        "totalViews": "172.6K+"
+        "subscribers": "6.98K+",
+        "featuredGuests": 73,
+        "totalViews": "175.2K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 103,
+            "displayTitle": "Total Syntheses of GB22, GB13, and Himgaline with Eleanor Landwehr",
+            "videoId": "G3WnjqBwsac"
+        },
 	{
             "episodeNumber": 102,
             "displayTitle": "C–H Diversification via Radical Chain Transfer with Dr. Tim Fazekas",
