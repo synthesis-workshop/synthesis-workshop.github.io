@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "6.98K+",
-        "featuredGuests": 73,
-        "totalViews": "175.2K+"
+        "subscribers": "7.21K+",
+        "featuredGuests": 74,
+        "totalViews": "180.6K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 104,
+            "displayTitle": "Synthesis of Panowamycins, TM-135, and Veramycin F with Dr. Ben Bergstrom",
+            "videoId": "Oox0Z7y878M"
+        },
 	{
             "episodeNumber": 103,
             "displayTitle": "Total Syntheses of GB22, GB13, and Himgaline with Eleanor Landwehr",
