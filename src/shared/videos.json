@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.21K+",
-        "featuredGuests": 74,
-        "totalViews": "180.6K+"
+        "subscribers": "7.27K+",
+        "featuredGuests": 75,
+        "totalViews": "183.4K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 105,
+            "displayTitle": "Synthesis of Tomatidine with Chad Normandin",
+            "videoId": "umpc0vYHoLA"
+        },
 	{
             "episodeNumber": 104,
             "displayTitle": "Synthesis of Panowamycins, TM-135, and Veramycin F with Dr. Ben Bergstrom",
