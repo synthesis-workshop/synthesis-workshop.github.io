@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.27K+",
-        "featuredGuests": 75,
-        "totalViews": "183.4K+"
+        "subscribers": "7.35K+",
+        "featuredGuests": 76,
+        "totalViews": "186.8K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 106,
+            "displayTitle": "Meta-selective C-H Borylation with Dr. Tyler Pabst",
+            "videoId": "ycSx_Za1jh8"
+        },
 	{
             "episodeNumber": 105,
             "displayTitle": "Synthesis of Tomatidine with Chad Normandin",
