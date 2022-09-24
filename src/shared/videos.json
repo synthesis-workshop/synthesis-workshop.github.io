@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.35K+",
-        "featuredGuests": 76,
-        "totalViews": "186.8K+"
+        "subscribers": "7.43K+",
+        "featuredGuests": 77,
+        "totalViews": "189.8K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 107,
+            "displayTitle": "Synthesis of (+)-Ribostamycin with Dr. Chad Ungarean",
+            "videoId": "cGyGl0x2aXU"
+        },
 	{
             "episodeNumber": 106,
             "displayTitle": "Meta-selective C-H Borylation with Dr. Tyler Pabst",
