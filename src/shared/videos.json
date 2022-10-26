@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.43K+",
-        "featuredGuests": 77,
-        "totalViews": "189.8K+"
+        "subscribers": "7.66K+",
+        "featuredGuests": 78,
+        "totalViews": "198.6K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 108,
+            "displayTitle": "Photoinduced Alkene Cleavage with Nitroarenes with Emma Gogarnoiu",
+            "videoId": "M10DhMwmOKA"
+        },
 	{
             "episodeNumber": 107,
             "displayTitle": "Synthesis of (+)-Ribostamycin with Dr. Chad Ungarean",
