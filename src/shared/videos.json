@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.66K+",
+        "subscribers": "7.71K+",
         "featuredGuests": 78,
-        "totalViews": "198.6K+"
+        "totalViews": "200.9K+"
     },
     "total-synthesis": [
 	{
@@ -597,6 +597,11 @@
         }
     ],
     "culture-of-chemistry": [
+	{
+            "episodeNumber": 109,
+            "displayTitle": "Revisiting the Imposter Phenomenon with Dr. Marc Reid",
+            "videoId": "KLyVAtYkl-Q"
+        },
 	{
             "episodeNumber": 50,
             "displayTitle": "Idea Generation and Project Management",
