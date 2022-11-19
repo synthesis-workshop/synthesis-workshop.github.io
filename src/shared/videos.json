@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.71K+",
-        "featuredGuests": 78,
-        "totalViews": "200.9K+"
+        "subscribers": "7.75K+",
+        "featuredGuests": 79,
+        "totalViews": "204.1K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 110,
+            "displayTitle": "Total Synthesis of the Complex Antibiotic Darobactin A with David Ryffel (Sarlah Group)",
+            "videoId": "xgNyK4cZQUc"
+        },
 	{
             "episodeNumber": 108,
             "displayTitle": "Photoinduced Alkene Cleavage with Nitroarenes with Emma Gogarnoiu",
