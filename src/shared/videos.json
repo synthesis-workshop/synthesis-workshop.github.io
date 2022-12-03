@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.75K+",
-        "featuredGuests": 79,
-        "totalViews": "204.1K+"
+        "subscribers": "7.84K+",
+        "featuredGuests": 82,
+        "totalViews": "207.9K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 111,
+            "displayTitle": "Atroposelective Total Synthesis of the Macrocyclic Antibiotic Darobactin A (Baran Group)",
+            "videoId": "ZommFT2xZz4"
+        },
 	{
             "episodeNumber": 110,
             "displayTitle": "Total Synthesis of the Complex Antibiotic Darobactin A with David Ryffel (Sarlah Group)",
