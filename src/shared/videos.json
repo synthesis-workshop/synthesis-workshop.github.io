@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.84K+",
-        "featuredGuests": 82,
-        "totalViews": "207.9K+"
+        "subscribers": "7.92K+",
+        "featuredGuests": 83,
+        "totalViews": "211.4K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 112,
+            "displayTitle": "Screening for Generality in Asymmetric Catalysis with Corin Wagen",
+            "videoId": "vkHgfk5qwZ4"
+        },
 	{
             "episodeNumber": 111,
             "displayTitle": "Atroposelective Total Synthesis of the Macrocyclic Antibiotic Darobactin A (Baran Group)",
