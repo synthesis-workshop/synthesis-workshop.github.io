@@ -19,7 +19,6 @@ history.listen((location) => {
   ReactGA.pageview(location.pathname);
 });
 
-
 export default function App() {
   return (
     <>
@@ -35,6 +34,9 @@ export default function App() {
             </Nav.Link>
             <Nav.Link className="ml-2 mr-2 text-nowrap" href="#about">
               About
+            </Nav.Link>
+            <Nav.Link className="ml-2 mr-2 text-nowrap" href="#tw-symposium">
+              2022 Twitter Symposium
             </Nav.Link>
             <Nav.Link className="ml-2 mr-2 text-nowrap" href="#videos">
               Videos

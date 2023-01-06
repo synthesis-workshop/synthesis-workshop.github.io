@@ -8,6 +8,7 @@ import EpisodeList from "../episode-list";
 import Downloads from "../downloads";
 import Contact from "../contact";
 import Footer from "../footer";
+import TwSymposium from "../tw-symposium";
 
 export default () => {
   return (
@@ -17,6 +18,7 @@ export default () => {
       <main id="main">
         <About />
         <Counts />
+        <TwSymposium />
         <Videos />
         <EpisodeList />
         <Downloads />

@@ -1,4 +1,24 @@
 import React from "react";
+import styled from "styled-components";
+
+const NewCTA = styled.a`
+  position: relative;
+
+  .new-flag {
+    position: absolute;
+    top: -30px;
+    right: -25px;
+    color: ${({ theme }) => theme.colors.tertiary};
+    font-weight: bold;
+    font-size: 18px;
+    opacity: 0;
+    transition: opacity 0.5s;
+  }
+
+  &:hover .new-flag {
+    opacity: 1;
+  }
+`;
 
 export default () => {
   return (
@@ -16,6 +36,13 @@ export default () => {
           >
             See Our Channel
           </a>
+          <NewCTA
+            href="#tw-symposium"
+            className="btn-get-started scrollto ml-2"
+          >
+            2022 Twitter Symposium
+            <span className="new-flag">New!</span>
+          </NewCTA>
         </div>
       </section>
     </>
