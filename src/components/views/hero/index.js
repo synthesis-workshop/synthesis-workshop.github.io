@@ -40,7 +40,7 @@ export default () => {
             href="#tw-symposium"
             className="btn-get-started scrollto ml-2"
           >
-            2022 Twitter Symposium
+            Virtual Posters
             <span className="new-flag">New!</span>
           </NewCTA>
         </div>
