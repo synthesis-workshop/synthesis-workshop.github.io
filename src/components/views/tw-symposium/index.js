@@ -86,18 +86,38 @@ const SubmissionGrid = styled.div`
   }
 `;
 
+const StyledLink = styled.a`
+  color: ${({ theme }) => theme.colors.tertiary};
+
+  :hover {
+    text-decoration: none;
+    color: ${({ theme }) => theme.colors.primary.dark};
+  }
+`;
+
 export default () => {
   const [showModal, setShowModal] = useState();
 
   return (
     <>
       <section
-        id="tw-symposium"
+        id="posters"
         className="d-flex align-items-center justify-content-center section-bg"
       >
         <div className="container position-relative">
-          <h1>2022 Twitter Symposium</h1>
-          <h2>Thank you for your submissions!</h2>
+          <h1>Posters</h1>
+          <p className="text-white mt-2">
+            If you are interested in sharing your published work in the form of
+            a virtual research poster, feel free to reach out via{" "}
+            <StyledLink href="mailto:synthesisworkshopvideos@gmail.com">
+              synthesisworkshopvideos@gmail.com
+            </StyledLink>{" "}
+            and download the{" "}
+            <StyledLink download href="downloads/poster_template.pptx">
+              template
+            </StyledLink>
+            .
+          </p>
           <SubmissionGrid className="d-flex justify-content-center mt-4">
             {submissions.map((submission) => (
               <div className="image-panel rounded">

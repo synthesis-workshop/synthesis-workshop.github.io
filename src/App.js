@@ -35,8 +35,8 @@ export default function App() {
             <Nav.Link className="ml-2 mr-2 text-nowrap" href="#about">
               About
             </Nav.Link>
-            <Nav.Link className="ml-2 mr-2 text-nowrap" href="#tw-symposium">
-              2022 Twitter Symposium
+            <Nav.Link className="ml-2 mr-2 text-nowrap" href="#posters">
+              Posters
             </Nav.Link>
             <Nav.Link className="ml-2 mr-2 text-nowrap" href="#videos">
               Videos
