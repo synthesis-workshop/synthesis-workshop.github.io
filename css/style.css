@@ -416,6 +416,89 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Twitter Symposium Section
+--------------------------------------------------------------*/
+#posters {
+  width: 100%;
+  background: url("../img/hero-bg.svg") top center;
+  background-size: cover;
+  position: relative;
+}
+
+#posters:before {
+  content: "";
+  background: rgba(45, 53, 69, 0.7);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+#posters .container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+@media (max-width: 992px) {
+  #posters .container {
+    padding-top: 0;
+  }
+}
+
+#posters h1 {
+  margin: 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+}
+
+#posters h2 {
+  color: #eee;
+  margin: 15px 0 0 0;
+  font-size: 22px;
+}
+
+#posters .btn-get-started {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 9px 35px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin-top: 40px;
+  border: 2px solid #ffc107;
+  color: #fff;
+}
+
+#posters .btn-get-started:hover {
+  background: #ffc107;
+}
+
+@media (min-width: 1024px) {
+  #posters {
+    background-attachment: fixed;
+  }
+}
+
+@media (max-width: 768px) {
+  #posters {
+    height: 100vh;
+  }
+  #posters h1 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  #posters h2 {
+    font-size: 18px;
+    line-height: 24px;
+  }
+}
+
+/*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
