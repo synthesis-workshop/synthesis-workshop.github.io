@@ -36,10 +36,7 @@ export default () => {
           >
             See Our Channel
           </a>
-          <NewCTA
-            href="#tw-symposium"
-            className="btn-get-started scrollto ml-2"
-          >
+          <NewCTA href="#posters" className="btn-get-started scrollto ml-2">
             Virtual Posters
             <span className="new-flag">New!</span>
           </NewCTA>

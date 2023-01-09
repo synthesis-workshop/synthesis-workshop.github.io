@@ -485,9 +485,6 @@ h6 {
 }
 
 @media (max-width: 768px) {
-  #posters {
-    height: 100vh;
-  }
   #posters h1 {
     font-size: 28px;
     line-height: 36px;
