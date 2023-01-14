@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "7.92K+",
-        "featuredGuests": 83,
-        "totalViews": "211.4K+"
+        "subscribers": "8.07K+",
+        "featuredGuests": 84,
+        "totalViews": "218.1K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 113,
+            "displayTitle": "Diversification of Indole Skeletons through Nitrogen Atom Insertion with Julia Reisenbauer",
+            "videoId": "CMm-WJ1nolo"
+        },
 	{
             "episodeNumber": 112,
             "displayTitle": "Screening for Generality in Asymmetric Catalysis with Corin Wagen",
