@@ -92,7 +92,7 @@ export default () => {
                     Research Fellowship at Kellogg College (University of
                     Oxford). In 2021, he became a Scientist at Janssen Pharmaceutical Companies of Johnson & Johnson in Chemical Process Research & Development (CPRD) in Belgium.
 
-He currently serves on the Advisory Board of Synthesis <a href=“https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000084”>this is a link</a> and the Early Career Advisory Board of Tetrahedron <a href=“https://www.sciencedirect.com/journal/tetrahedron”>this is a link</a> and Tetrahedron Letters <a href=“https://www.sciencedirect.com/journal/tetrahedron-letters”>this is a link</a>.
+He currently serves on the Advisory Board of Synthesis <a href=https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000084>this is a link</a> and the Early Career Advisory Board of Tetrahedron <a href=https://www.sciencedirect.com/journal/tetrahedron>this is a link</a> and Tetrahedron Letters <a href=https://www.sciencedirect.com/journal/tetrahedron-letters>this is a link</a>.
                   </p>
                 </div>
               </div>
