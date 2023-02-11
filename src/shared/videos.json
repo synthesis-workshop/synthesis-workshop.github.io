@@ -1,9 +1,9 @@
 
 {
     "counts": {
-        "subscribers": "8.13K+",
-        "featuredGuests": 85,
-        "totalViews": "220.5K+"
+        "subscribers": "8.25K+",
+        "featuredGuests": 86,
+        "totalViews": "235.5K+"
     },
     "total-synthesis": [
 	{
@@ -210,6 +210,11 @@
         }
     ],
     "research-spotlight": [
+	{
+            "episodeNumber": 115,
+            "displayTitle": "Reaction Kinetics of Photoredox Cross Couplings with Dr. Yael Ben-Tal",
+            "videoId": "8EcXMWTqDQ8"
+        },
 	{
             "episodeNumber": 114,
             "displayTitle": "Total Synthesis of the Neurotoxic Natural Product Tetrodotoxin with Dr. David Konrad",
