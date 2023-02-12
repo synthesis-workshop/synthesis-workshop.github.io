@@ -1,4 +1,3 @@
-
 {
     "counts": {
         "subscribers": "8.25K+",
@@ -6,57 +5,57 @@
         "totalViews": "235.5K+"
     },
     "total-synthesis": [
-	{
+        {
             "episodeNumber": 100,
             "displayTitle": "Total Synthesis of Limaol",
             "videoId": "yccqXV8EhfM"
         },
-	{
+        {
             "episodeNumber": 88,
             "displayTitle": "(+)-Haperforin G Total Synthesis",
             "videoId": "04qFcylDEQ8"
         },
-	{
+        {
             "episodeNumber": 61,
             "displayTitle": "(-)-Daphnezomines A and B Total Synthesis",
             "videoId": "5A3spiOjhyc"
         },
-	{
+        {
             "episodeNumber": 46,
             "displayTitle": "The Two-Phase Approach to Taxanes",
             "videoId": "dTkSpH7bmmY"
-        },	
-	{
+        },
+        {
             "episodeNumber": 38.5,
             "displayTitle": "Síntesis del Anhidroryanodol",
             "videoId": "mbUKTY-S3tM"
         },
-	{
+        {
             "episodeNumber": 38,
             "displayTitle": "Synthesis of Anhydroryanodol",
             "videoId": "_HMtVIXqJH8"
-        },	
-	{
+        },
+        {
             "episodeNumber": 30.5,
             "displayTitle": "Síntesis de la Pleuromutilina",
             "videoId": "fem3DYROyE8"
         },
-	{
+        {
             "episodeNumber": 30,
             "displayTitle": "(+)-Pleuromutilin Total Synthesis",
             "videoId": "0Ksl_2Bs-dQ"
-        },	
-	{
+        },
+        {
             "episodeNumber": 22.5,
             "displayTitle": "Síntesis de la Talatisamina",
             "videoId": "qxLpKgCkgHU"
         },
-	{
+        {
             "episodeNumber": 22,
             "displayTitle": "Synthesis of Talatisamine",
             "videoId": "Qh_Yvhedtyo"
         },
-	{
+        {
             "episodeNumber": 20.5,
             "displayTitle": "Síntesis de la Quinina y la Quinidina",
             "videoId": "ohHihximdmU"
@@ -66,7 +65,7 @@
             "displayTitle": "Synthesis of Quinine and Quinidine",
             "videoId": "ulxxfL6X3Ig"
         },
- 	{
+        {
             "episodeNumber": 16.5,
             "displayTitle": "Síntesis del (-)-PF-1018",
             "videoId": "c23M74x0n5k"
@@ -76,7 +75,7 @@
             "displayTitle": "(-)-PF-1018 Total Synthesis",
             "videoId": "PVKIe49YGtg"
         },
- 	{
+        {
             "episodeNumber": 14.5,
             "displayTitle": "Síntesis de la Scabrolida A",
             "videoId": "ZxrraGqi8cg"
@@ -86,7 +85,7 @@
             "displayTitle": "(-)-Scabrolide A Total Synthesis",
             "videoId": "TcxcbQ0412U"
         },
-	 {
+        {
             "episodeNumber": 11.5,
             "displayTitle": "Síntesis del Tafluprost",
             "videoId": "NyRKY52xzy0"
@@ -101,7 +100,7 @@
             "displayTitle": "Brevianamide A Synthesis with Dr. Blane Zavesky",
             "videoId": "PZItREnuEHI"
         },
-      {
+        {
             "episodeNumber": 9.5,
             "displayTitle": "Síntesis de la Bactobolina A",
             "videoId": "GBtnpqY-IV4"
@@ -111,7 +110,7 @@
             "displayTitle": "(-)-Bactobolin A Total Synthesis",
             "videoId": "HL6xcZjl_x4"
         },
-	{
+        {
             "episodeNumber": 7.5,
             "displayTitle": "Síntesis de la Maximiscina",
             "videoId": "AixsGL-iQrI"
@@ -121,7 +120,7 @@
             "displayTitle": "(-)-Maximiscin Total Synthesis",
             "videoId": "iiZUaqeXGzs"
         },
-	{
+        {
             "episodeNumber": 5.5,
             "displayTitle": "Síntesis de la Cajanusina",
             "videoId": "wFQ1ideUv10"
@@ -131,7 +130,7 @@
             "displayTitle": "(-)-Cajanusine Total Synthesis",
             "videoId": "aIdHnyOwAOk"
         },
- 	{
+        {
             "episodeNumber": 4.5,
             "displayTitle": "Síntesis de la Curvulamina",
             "videoId": "96n9u48IJN0"
@@ -146,29 +145,29 @@
             "displayTitle": "Bryostatin 1 Total Synthesis",
             "videoId": "7_deI2poP-U"
         }
-    ], 
+    ],
     "named-reactions": [
- 	{
+        {
             "episodeNumber": 72,
             "displayTitle": "The Schwartz Reagent",
             "videoId": "5OTYSKrGUGA"
-        }, 
-	{
+        },
+        {
             "episodeNumber": 55,
             "displayTitle": "The Eschenmoser-Claisen Rearrangement",
             "videoId": "WWpXMB6zg2E"
         },
-	{
+        {
             "episodeNumber": 42,
             "displayTitle": "The Kulinkovich Reaction",
             "videoId": "vR8k4Zdg2H0"
         },
-	{
+        {
             "episodeNumber": 34,
             "displayTitle": "The Arbuzov Reaction",
             "videoId": "Slkv-h6ohW8"
         },
-	{
+        {
             "episodeNumber": 26,
             "displayTitle": "The Julia-Lythgoe Olefination",
             "videoId": "2asmyACX1ls"
@@ -210,397 +209,397 @@
         }
     ],
     "research-spotlight": [
-	{
+        {
             "episodeNumber": 115,
             "displayTitle": "Reaction Kinetics of Photoredox Cross Couplings with Dr. Yael Ben-Tal",
             "videoId": "8EcXMWTqDQ8"
         },
-	{
+        {
             "episodeNumber": 114,
             "displayTitle": "Total Synthesis of the Neurotoxic Natural Product Tetrodotoxin with Dr. David Konrad",
             "videoId": "UeFhYiQGs0I"
         },
-	{
+        {
             "episodeNumber": 113,
             "displayTitle": "Diversification of Indole Skeletons through Nitrogen Atom Insertion with Julia Reisenbauer",
             "videoId": "CMm-WJ1nolo"
         },
-	{
+        {
             "episodeNumber": 112,
             "displayTitle": "Screening for Generality in Asymmetric Catalysis with Corin Wagen",
             "videoId": "vkHgfk5qwZ4"
         },
-	{
+        {
             "episodeNumber": 111,
             "displayTitle": "Atroposelective Total Synthesis of the Macrocyclic Antibiotic Darobactin A (Baran Group)",
             "videoId": "ZommFT2xZz4"
         },
-	{
+        {
             "episodeNumber": 110,
             "displayTitle": "Total Synthesis of the Complex Antibiotic Darobactin A with David Ryffel (Sarlah Group)",
             "videoId": "xgNyK4cZQUc"
         },
-	{
+        {
             "episodeNumber": 108,
             "displayTitle": "Photoinduced Alkene Cleavage with Nitroarenes with Emma Gogarnoiu",
             "videoId": "M10DhMwmOKA"
         },
-	{
+        {
             "episodeNumber": 107,
             "displayTitle": "Synthesis of (+)-Ribostamycin with Dr. Chad Ungarean",
             "videoId": "cGyGl0x2aXU"
         },
-	{
+        {
             "episodeNumber": 106,
             "displayTitle": "Meta-selective C-H Borylation with Dr. Tyler Pabst",
             "videoId": "ycSx_Za1jh8"
         },
-	{
+        {
             "episodeNumber": 105,
             "displayTitle": "Synthesis of Tomatidine with Chad Normandin",
             "videoId": "umpc0vYHoLA"
         },
-	{
+        {
             "episodeNumber": 104,
             "displayTitle": "Synthesis of Panowamycins, TM-135, and Veramycin F with Dr. Ben Bergstrom",
             "videoId": "Oox0Z7y878M"
         },
-	{
+        {
             "episodeNumber": 103,
             "displayTitle": "Total Syntheses of GB22, GB13, and Himgaline with Eleanor Landwehr",
             "videoId": "G3WnjqBwsac"
         },
-	{
+        {
             "episodeNumber": 102,
             "displayTitle": "C–H Diversification via Radical Chain Transfer with Dr. Tim Fazekas",
             "videoId": "C3nakFJFsnM"
         },
-	{
+        {
             "episodeNumber": 101,
             "displayTitle": "Low-Valent Tungsten Redox Catalysis with Dr. Tanner Jankins",
             "videoId": "S4-HXIIoN6U"
         },
-	{
+        {
             "episodeNumber": 99,
             "displayTitle": "Asymmetric C–P Coupling with Dr. Anirban Mondal",
             "videoId": "biVG3QNizaw"
         },
-	{
+        {
             "episodeNumber": 98,
             "displayTitle": "Radical Polar Annulation Reactions with Dr. Christopher Kelly",
             "videoId": "uBOvBc5qXRg"
         },
-	{
+        {
             "episodeNumber": 97,
             "displayTitle": "Diketopiperazine Catalysis with Prof. Alexandros Zografos",
             "videoId": "DkEysiJZifI"
         },
-	{
+        {
             "episodeNumber": 96,
             "displayTitle": "Hydrogenative C-H Insertion with Dr. Sebastian Peil",
             "videoId": "Fz0hsDgqYz0"
         },
-	{
+        {
             "episodeNumber": 95,
             "displayTitle": "Electrochemical Terpene Synthesis with Maximilian Palkowitz",
             "videoId": "DgqAe-vyOZc"
         },
-	{
+        {
             "episodeNumber": 94,
             "displayTitle": "Deuterium and Tritium Labeling with Sara Kopf and Florian Bourriquen",
             "videoId": "fNRwVofV4iI"
         },
-	{
+        {
             "episodeNumber": 93,
             "displayTitle": "Synthesis of Enamides via Amide Activation with Philipp Spiess",
             "videoId": "v0RHjFeq4Xc"
         },
-	{
+        {
             "episodeNumber": 92,
             "displayTitle": "Iron-catalyzed Azidation with Craig Day",
             "videoId": "Ks2zTgMjLUI"
         },
-	{
+        {
             "episodeNumber": 91,
             "displayTitle": "Synthetic Phosphonic Acids with Dr. Katharina Pallitsch",
             "videoId": "7OFJM_pDefM"
         },
-	{
+        {
             "episodeNumber": 90,
             "displayTitle": "Total Syntheses of Strasseriolide A and B with Dr. Leah Salituro",
             "videoId": "xKtJKjDTx28"
         },
-	{
+        {
             "episodeNumber": 89,
             "displayTitle": "Total Synthesis of Azitine with Dr. Jie Liu",
             "videoId": "EIfvV2XAZEo"
         },
-	{
+        {
             "episodeNumber": 87,
             "displayTitle": "Nickel Versus Palladium in Catalysis with Dr. David Nelson",
             "videoId": "P70tsMMnvHc"
         },
-	{
+        {
             "episodeNumber": 86,
             "displayTitle": "Contra-Thermodynamic Positional Olefin Isomerization with Kuo Zhao",
             "videoId": "jbjb2VOU6T8"
         },
-	{
+        {
             "episodeNumber": 85,
             "displayTitle": "Cyclopropanation via Radical Carbenoids with Dr. Ana García Herraiz",
             "videoId": "4dzxZ2ltwk0"
         },
-	{
+        {
             "episodeNumber": 84,
             "displayTitle": "Nickel-catalyzed Domino Reactions with Kirsten Hewitt",
             "videoId": "p4V27GFGiWc"
         },
-	{
+        {
             "episodeNumber": 83,
             "displayTitle": "Manganese-Promoted 1,2-Radical Migrations with Hayden Carder",
             "videoId": "z0qiNfkdL10"
         },
-	{
+        {
             "episodeNumber": 82,
             "displayTitle": "Donor-acceptor Conjugated Polymers with Stephen Koehler",
             "videoId": "LZyeH46n6wY"
         },
-	{
+        {
             "episodeNumber": 81,
             "displayTitle": "Enantioselective 1,2-Boronate Rearrangements with Dr. Hayden Sharma",
             "videoId": "Nw_zUKqcgvM"
         },
-	{
+        {
             "episodeNumber": 80,
             "displayTitle": "Enantioselective Intermolecular Amination with Alexander Fanourakis",
             "videoId": "u_icKys51dU"
         },
-	{
+        {
             "episodeNumber": 79,
             "displayTitle": "Catalysis with Pyridone Borane Complexes with Dr. Urs Gellrich",
             "videoId": "JF0E4vsxXk0"
         },
-	{
+        {
             "episodeNumber": 78,
             "displayTitle": "Synthesis of Cardiotonic Steroids with Dr. Zachary Fejedelem",
             "videoId": "8a_sXvbUIMk"
         },
-	{
+        {
             "episodeNumber": 77,
             "displayTitle": "Photochemical Azetine Synthesis with Emily Wearing",
             "videoId": "1J7WeQIoP5Y"
         },
-	{
+        {
             "episodeNumber": 76,
             "displayTitle": "Chiral N-Heterocyclic Carbene Synthesis with Dr. Vasudevan Dhayalan",
             "videoId": "9u8TadH9OcQ"
         },
-	{
+        {
             "episodeNumber": 75,
             "displayTitle": "The Phospha-Bora-Wittig Reaction with Dr. Andryj Borys",
             "videoId": "YlU9KQCWm1U"
         },
-	{
+        {
             "episodeNumber": 74,
             "displayTitle": "Synthesis of Uncommon Heterocycles with Dr. David Leboeuf",
             "videoId": "H43b0A0BN9k"
         },
-	{
+        {
             "episodeNumber": 73,
             "displayTitle": "Enantioselective Synthesis of Ammonium Cations with Dr. Mark Walsh",
             "videoId": "yzsBVEQxY1Q"
         },
-	{
+        {
             "episodeNumber": 71,
             "displayTitle": "Selective Dearomatization of Phenols with Prof. Sarah Wengryniuk",
             "videoId": "VAZC_NZyEr4"
         },
-	{
+        {
             "episodeNumber": 70,
             "displayTitle": "Quantifying Substituent Steric Effects with Aidan McFord",
             "videoId": "vSb4_z8xS_4"
         },
-	{
+        {
             "episodeNumber": 69,
             "displayTitle": "Electron-primed Photoredox Catalysis with Alyah Chmiel",
             "videoId": "ed2RyhLzCaY"
         },
-	{
+        {
             "episodeNumber": 68,
             "displayTitle": "Photochemical Truce-Smiles Rearrangements with Dr. David Whalley ",
             "videoId": "mxlsmuYOUKA"
         },
-	{
+        {
             "episodeNumber": 67,
             "displayTitle": "Synthesis of Acridinium Photoredox Catalysts with Dr. Alex White",
             "videoId": "shFQf4tLlC4"
         },
-	{
+        {
             "episodeNumber": 66,
             "displayTitle": "Aziridine Synthesis via Electrogenerated Dications with Dylan Holst",
             "videoId": "9ecESNg1hdg"
         },
-	{
+        {
             "episodeNumber": 65,
             "displayTitle": "Total Synthesis of (-)-Strempeliopine with Xianhuang Zeng",
             "videoId": "MWXK2elRGOk"
         },
-	{
+        {
             "episodeNumber": 64,
             "displayTitle": "Total Synthesis of Leucophyllidine with Dr. Aurapat Ngamnithiporn",
             "videoId": "0bTXYEPgVDE"
         },
-	{
+        {
             "episodeNumber": 63,
             "displayTitle": "Total Synthesis of Nortopsentin D with Dr. Katarina Keel",
             "videoId": "GQ22BoLz_rk"
         },
-	{
+        {
             "episodeNumber": 62,
             "displayTitle": "Total Synthesis of Ambruticin J with James Bowen",
             "videoId": "UBYw1XHpYCI"
         },
-	{
+        {
             "episodeNumber": 60,
             "displayTitle": "INVEST Emitters with Dr. Robert Pollice",
             "videoId": "PGiHjLgFar4"
         },
-	{
+        {
             "episodeNumber": 59,
             "displayTitle": "Total Synthesis of Altemicidin with Dr. Claire Harmange Magnani",
             "videoId": "q1oOFId7sPk"
         },
-	{
+        {
             "episodeNumber": 58,
             "displayTitle": "Rearrangements of Indole-based Onium-Ylides with Vaishnavi Nair",
             "videoId": "foIbJr0hraM"
         },
-	{
+        {
             "episodeNumber": 57,
             "displayTitle": "Ruthenabenzene: A Robust Precatalyst with Saswata Gupta",
             "videoId": "SrSCFhFb_9c"
-        },	
-	{
+        },
+        {
             "episodeNumber": 56,
             "displayTitle": "Tetraarylethene Luminogen Synthesis with Dr. Abdusalom Suleymanov",
             "videoId": "hn9i2DPC4CQ"
         },
-	{
+        {
             "episodeNumber": 54,
             "displayTitle": "Late-Stage C–H Oxygenation And Iodination with Lalita Tanwar",
             "videoId": "tkpf1zvkI5c"
         },
-	{
+        {
             "episodeNumber": 53,
             "displayTitle": "Nickel-catalyzed Ketone Synthesis with Dr. Thomas Verheyen",
             "videoId": "36N9xlvAUxU"
         },
-	{
+        {
             "episodeNumber": 52,
             "displayTitle": "Elucidating Ni-catalyzed Negishi Couplings with Craig Day",
             "videoId": "IOe9kESs1h8"
         },
-	{
+        {
             "episodeNumber": 51,
             "displayTitle": "Synthesis and Reactivity of 3-s-Tetrazines with Dr. Simon Schnell",
             "videoId": "_jI_Hv2jBuU"
         },
-	{
+        {
             "episodeNumber": 49,
             "displayTitle": "Late-stage Oxidative C(sp3)–H Methylation with Dr. Kaibo Feng",
             "videoId": "WhwdkjSlwRE"
         },
-	{
+        {
             "episodeNumber": 48,
             "displayTitle": "Photochemical Alkene Dicarbofunctionalization with Mark Campbell",
             "videoId": "e4MXfnATcrE"
         },
-	{
+        {
             "episodeNumber": 47,
             "displayTitle": "Demystifying the Soai Reaction with Dr. Soumitra Athavale",
             "videoId": "mMyJ5hcKQ_Q"
         },
-	{
+        {
             "episodeNumber": 45,
             "displayTitle": "The Schlenk Line Survival Guide with Dr. Andryj Borys",
             "videoId": "mgnLr8URbjY"
         },
-	{
+        {
             "episodeNumber": 44,
             "displayTitle": "Asymmetric Synthesis with Allylboronic Acids with Sybrand Jonker",
             "videoId": "fpj9sZXWeQQ"
-        },	
-	{
+        },
+        {
             "episodeNumber": 43,
             "displayTitle": "A Logic to Redox-Neutral C-C Bond Formation with Dr. Terry McCallum",
             "videoId": "LWnNr1h1TfY"
         },
-	{
+        {
             "episodeNumber": 41,
             "displayTitle": "Pd-catalyzed Carbohalogenation of Alkynes with Prof. Christine Le",
             "videoId": "7oNvraK7-zM"
         },
-	{
+        {
             "episodeNumber": 40,
             "displayTitle": "Syntheses of Macfarlandin C and Dendrillolide A with Dr. Tyler Allred",
             "videoId": "lW95iPs9TGU"
-        },	
-	{
+        },
+        {
             "episodeNumber": 39,
             "displayTitle": "Decatungstate Photocatalysis in Flow with Dr. Gabriele Laudadio",
             "videoId": "Hx_ox_T1fBU"
         },
-	{
+        {
             "episodeNumber": 37,
             "displayTitle": "Total Synthesis of (±)-Leonuketal with Dr. Phillip Grant",
             "videoId": "gYtGywCKV-0"
-        },	
-	{
+        },
+        {
             "episodeNumber": 36,
             "displayTitle": "High-valent Bismuth Redox Catalysis with Dr. Oriol Planas",
             "videoId": "EYhVXwkkmSA"
         },
-	{
+        {
             "episodeNumber": 35,
             "displayTitle": "Visible-light-mediated [2+2] Photocycloadditions with Marc Becker",
             "videoId": "-IOsBAN3Oaw"
         },
-	{
+        {
             "episodeNumber": 32,
             "displayTitle": "Synthesis of Repraesentin F with Dr. Sofia Ferrer",
             "videoId": "3gjuhu8DL40"
         },
-	{
+        {
             "episodeNumber": 31,
             "displayTitle": "Visible-light [2+2] Cycloadditions with Dr. Alberto Vega-Peñaloza",
             "videoId": "P9CindS9Nig"
         },
-	{
+        {
             "episodeNumber": 29,
             "displayTitle": "Cyclopropanation by Oxidative Umpolung with Dr. Adriano Bauer",
             "videoId": "wwuIT8CVQAs"
-        },	
-	{
+        },
+        {
             "episodeNumber": 28,
             "displayTitle": "Dual Photoredox/Nickel Catalysis with Sebastian Gisbertz",
             "videoId": "1jXO8883G0A"
         },
-	{
+        {
             "episodeNumber": 27,
             "displayTitle": "Synthesis of Picrotoxinin and Picrotin with Dr. Steven Crossley",
             "videoId": "93R1yiKS3TI"
-        },	
-	{
+        },
+        {
             "episodeNumber": 25,
             "displayTitle": "Synthesis of Optically Active 7-Membered Rings with Michele Garbo",
             "videoId": "gHZ0h71_oo0"
         },
-	{
+        {
             "episodeNumber": 24,
             "displayTitle": "Total Synthesis of Chilocorine C with Vlad Lisnyak",
             "videoId": "WaHY8GGDOCI"
-        },	
-	{
+        },
+        {
             "episodeNumber": 23,
             "displayTitle": "Asymmetric Hydrogenation of Oximes with Dr. Josep Mas-Roselló",
             "videoId": "BDZibkCTevw"
@@ -627,17 +626,17 @@
         }
     ],
     "culture-of-chemistry": [
-	{
+        {
             "episodeNumber": 109,
             "displayTitle": "Revisiting the Imposter Phenomenon with Dr. Marc Reid",
             "videoId": "KLyVAtYkl-Q"
         },
-	{
+        {
             "episodeNumber": 50,
             "displayTitle": "Idea Generation and Project Management",
             "videoId": "dKpJlQST3vo"
         },
-	{
+        {
             "episodeNumber": 33,
             "displayTitle": "Communication in Organic Synthesis (Virtual Talk at Towson University)",
             "videoId": "U7fLci-Xq7I"
