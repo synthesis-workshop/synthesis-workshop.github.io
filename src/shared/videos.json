@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "8.43K+",
-        "featuredGuests": 88,
-        "totalViews": "237.8K+"
+        "subscribers": "8.49K+",
+        "featuredGuests": 89,
+        "totalViews": "240.2K+"
     },
     "total-synthesis": [
         {
@@ -210,6 +210,11 @@
     ],
     "research-spotlight": [
         {
+            "episodeNumber": 118,
+            "displayTitle": "Evading Beta-Oxygen Elimination in Suzuki-Miyaura Cross Couplings with Antonio LaPorte",
+            "videoId": "DLLzjiwu7PU"
+        },
+	{
             "episodeNumber": 117,
             "displayTitle": "A Pyridine Dearomatization Approach to the Matrine-type Lupin Alkaloids with Jeff Kerkovius",
             "videoId": "fWvfpqnW_5U"
