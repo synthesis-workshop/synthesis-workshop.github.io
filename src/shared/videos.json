@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "8.49K+",
-        "featuredGuests": 89,
-        "totalViews": "240.2K+"
+        "subscribers": "8.60K+",
+        "featuredGuests": 90,
+        "totalViews": "245.8K+"
     },
     "total-synthesis": [
         {
@@ -209,7 +209,12 @@
         }
     ],
     "research-spotlight": [
-        {
+         {
+            "episodeNumber": 119,
+            "displayTitle": "Enantioselective Catalysis of Prins Cyclization Reactions with Dr. Dennis Kutateladze",
+            "videoId": "LNlR97Nn8Uo"
+        },
+	{
             "episodeNumber": 118,
             "displayTitle": "Evading Beta-Oxygen Elimination in Suzuki-Miyaura Cross Couplings with Antonio LaPorte",
             "videoId": "DLLzjiwu7PU"
