@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "8.67K+",
-        "featuredGuests": 91,
-        "totalViews": "248.7K+"
+        "subscribers": "8.73K+",
+        "featuredGuests": 92,
+        "totalViews": "253.3K+"
     },
     "total-synthesis": [
         {
@@ -210,6 +210,11 @@
     ],
     "research-spotlight": [
          {
+            "episodeNumber": 121,
+            "displayTitle": "Photocatalytic Asymmetric Synthesis of α-Trialkyl-α-tertiary Amines with Georgia Harris",
+            "videoId": "7xhdbFy6rak"
+        }, 
+	{
             "episodeNumber": 120,
             "displayTitle": "Synthesis of High-energy, Nitrogen-rich Energetic Materials with Dr. Katie Rykaczewski",
             "videoId": "ox80N74o_QY"

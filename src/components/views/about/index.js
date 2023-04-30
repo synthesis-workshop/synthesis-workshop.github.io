@@ -92,8 +92,8 @@ export default () => {
                     Research Fellowship at Kellogg College (University of
                     Oxford). In 2021, he became a Scientist at Janssen
                     Pharmaceutical Companies of Johnson & Johnson in Chemical
-                    Process Research & Development (CPRD) in Belgium. He
-                    currently serves on the Advisory Board of{" "}
+                    Process Research & Development (CPRD) in Belgium. He currently works at Eurofins Villapharma in Spain, as Head of Scale-up Laboratory and Business Subunit and he
+                    serves on the Advisory Board of{" "}
                     <a href="https://www.thieme-connect.com/products/ejournals/journal/10.1055/s-00000084">
                       Synthesis
                     </a>{" "}
