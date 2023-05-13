@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "8.73K+",
+        "subscribers": "8.77K+",
         "featuredGuests": 92,
-        "totalViews": "253.3K+"
+        "totalViews": "256.1K+"
     },
     "total-synthesis": [
         {
@@ -210,6 +210,11 @@
     ],
     "research-spotlight": [
          {
+            "episodeNumber": 122,
+            "displayTitle": "Elucidating Electron Transfer Events in Nickel Complexes with Dr. Craig Day",
+            "videoId": "-YMotPrGjUM"
+        }, 
+	{
             "episodeNumber": 121,
             "displayTitle": "Photocatalytic Asymmetric Synthesis of α-Trialkyl-α-tertiary Amines with Georgia Harris",
             "videoId": "7xhdbFy6rak"
