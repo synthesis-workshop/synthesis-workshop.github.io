@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "8.77K+",
-        "featuredGuests": 92,
-        "totalViews": "256.1K+"
+        "subscribers": "8.86K+",
+        "featuredGuests": 93,
+        "totalViews": "259.1K+"
     },
     "total-synthesis": [
         {
@@ -209,7 +209,12 @@
         }
     ],
     "research-spotlight": [
-         {
+         
+	{
+            "episodeNumber": 123,
+            "displayTitle": "Anaerobic Hydroxylation of C–H Bonds Enabled by Photoexcited Nitroarenes with Joshua Paolillo",
+            "videoId": "xPm2j4dT65I"
+        },{
             "episodeNumber": 122,
             "displayTitle": "Elucidating Electron Transfer Events in Nickel Complexes with Dr. Craig Day",
             "videoId": "-YMotPrGjUM"
