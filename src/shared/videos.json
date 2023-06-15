@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "8.86K+",
-        "featuredGuests": 93,
-        "totalViews": "259.1K+"
+        "subscribers": "8.97K+",
+        "featuredGuests": 94,
+        "totalViews": "264.1K+"
     },
     "total-synthesis": [
         {
@@ -209,12 +209,17 @@
         }
     ],
     "research-spotlight": [
-         
+         {
+            "episodeNumber": 124,
+            "displayTitle": "Enantioselective Synthesis of Stereogenic-at-P(V) Building Blocks with Dr. Katherine Forbes",
+            "videoId": "Q35baqjUTnA"
+        },
 	{
             "episodeNumber": 123,
             "displayTitle": "Anaerobic Hydroxylation of C–H Bonds Enabled by Photoexcited Nitroarenes with Joshua Paolillo",
             "videoId": "xPm2j4dT65I"
-        },{
+        },
+	{
             "episodeNumber": 122,
             "displayTitle": "Elucidating Electron Transfer Events in Nickel Complexes with Dr. Craig Day",
             "videoId": "-YMotPrGjUM"
