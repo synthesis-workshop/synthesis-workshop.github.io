@@ -72,7 +72,7 @@ export default () => {
             <div className="col-lg-9 pt-4 pt-lg-0">
               <div className="card">
                 <div className="card-body">
-                  <h4 className="card-title">Dr. Matthew Horwitz</h4>
+                  <h4 className="card-title">Founder and Editor-in-chief: Dr. Matthew Horwitz</h4>
                   <p className="card-text" style={{ textAlign: "justify" }}>
                     Dr. Matthew Horwitz obtained his B.A. in Biochemistry from
                     Columbia University in 2013 and studied computational
@@ -131,7 +131,7 @@ export default () => {
                     Associate Editor - Problem Sets: Dr. Peter Bellotti
                   </h4>
                   <p className="card-text" style={{ textAlign: "justify" }}>
-                    Peter Bellotti received his BSc. degree in chemistry from
+                    Peter Bellotti received his B.Sc. degree in chemistry from
                     the Università degli Studi di Milano (Italy) under the
                     guidance of Prof. Cesare M. A. Gennari and later obtained a
                     M.Sc. in Advanced Synthesis &amp; Catalysis at the
@@ -161,6 +161,28 @@ export default () => {
             </div>
           </div>
 
+<div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">Associate Editor - Problem Sets: Dr. Francisco José Aguilar Troyano</h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                    Francisco José Aguilar Troyano obtained his B.Sc. in chemistry from the University of Jaen (Spain). He later obtained his M.Sc. in Investigation, Development, Control & Innovation of Drugs from the University of Granada. Afterwards, he pursued his doctoral studies in radical chemistry and synthetic photochemistry under the supervision of Prof. Stefan Kirsch and Dr. Adrián Gómez-Suarez at the Bergische University of Wuppertal (Germany). He is currently working as a postdoctoral researcher in the laboratory of Prof. Stephen G. Newman at the University of Ottawa (Canada). 
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Francisco-Jose-Troyano-heatshot.JPEG"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+
+
           <div className="row mt-3">
             <div className="col-lg-9 pt-4 pt-lg-0">
               <div className="card">
@@ -169,12 +191,12 @@ export default () => {
                     Editorial Board: Kathleen Cheasty
                   </h4>
                   <p className="card-text" style={{ textAlign: "justify" }}>
-                    Kathleen received her BSc at Radboud University, the
+                    Kathleen received her B.Sc. at Radboud University, the
                     Netherlands and is currently completing her Master studies
                     at the same university. During her studies, she performed
                     research on the development of supramolecular catalysts in
                     the Nolte group at Radboud University, as well as on
-                    dealkenylative functionalizations of C(sp 3 )-C(sp 2 ) bonds
+                    dealkenylative functionalizations of C(sp3)-C(sp2) bonds
                     in the Kwon group at UCLA.
                   </p>
                 </div>
@@ -190,7 +212,53 @@ export default () => {
             </div>
           </div>
 
+          
+ {/* !!!Start copying here!!! */}
           <div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">
+                    {/* Change this text after copying */}
+                    Editorial Board: Dr. Hamideh Hazrati
+                  </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                    {/* Change this text after copying */}
+                    Hamideh is an Iranian chemist. She obtained her B.Sc. and
+                    M.Sc. in Chemistry from University of Tehran, Iran. She
+                    received her Ph.D. in Organic Chemistry in 2013 working on
+                    Pd-catalyzed (double) C-H activation and
+                    decarboxylation/decarbonylation reactions under the supervision
+                    of Dr. Farnaz Jafarpour. She continued her career at Royan
+                    Institute specializing in stem cell and regenerative
+                    medicine. In 2016, she received a GFR Fellowship from the
+                    Alexander von Humboldt Foundation and moved to Berlin to
+                    work as a Postdoctoral researcher in the group of Prof.
+                    Dr. Martin Oestreich on synthetic organometallic
+                    chemistry (specifically, copper catalyzed C-Si bond
+                    formation) at Technische Universität Berlin. Then she moved
+                    to industry and was involved in several industrial projects
+                    including parallel synthesis and High-Throughput Screening
+                    (HTS) methods, controlled polymerization reactions,
+                    industrial hydrogenation and more. She decided to come back
+                    to Iran in 2021 and work as a partner in a start-up company.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              {/* Change this image "src" field after copying */}
+              <img
+                style={{ width: "300px" }}
+                src="img/Hamideh_Hazrati_headshot.png"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+          {/* !!!Stop copying here!!! */}
+
+	<div className="row mt-3">
             <div className="col-lg-9 pt-4 pt-lg-0">
               <div className="card">
                 <div className="card-body">
@@ -216,50 +284,7 @@ export default () => {
             </div>
           </div>
 
-          {/* !!!Start copying here!!! */}
-          <div className="row mt-3">
-            <div className="col-lg-9 pt-4 pt-lg-0">
-              <div className="card">
-                <div className="card-body">
-                  <h4 className="card-title">
-                    {/* Change this text after copying */}
-                    Editorial Board: Dr. Hamideh Hazrati
-                  </h4>
-                  <p className="card-text" style={{ textAlign: "justify" }}>
-                    {/* Change this text after copying */}
-                    Hamideh is an Iranian chemist. She obtained her B.Sc. and
-                    M.Sc. in Chemistry from University of Tehran, Iran. She
-                    received her Ph.D in Organic Chemistry in 2013 working on
-                    Pd-catalyzed (double) C-H activation and
-                    decarboxylation/decarbonylation reactions under supervision
-                    of Dr. Farnaz Jafarpour. She continued her career at Royan
-                    Institute specializing in Stem cell and regenerative
-                    medicine. In 2016, she received GFR Fellowship from
-                    Alexander von Humboldt Foundation and moved to Berlin to
-                    work as a Postdoctoral researcher in the group of Prof.
-                    Dr.Martin Oestreich on Synthetic Organometallic
-                    Chemistry-Silicon Chemistry (Copper Catalyzed C-Si Bond
-                    Formation) at Technische Universität Berlin. Then she moved
-                    to industry and was involved in several industrial projects
-                    including parallel synthesis and High-Throughput Screening
-                    (HTS) methods, Controlled polymerization reactions,
-                    Industrial Hydrogenation and more. She decided to come back
-                    to Iran in 2021 and work as a partner in a start-up company.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-3 d-flex align-items-center justify-content-center">
-              {/* Change this image "src" field after copying */}
-              <img
-                style={{ width: "300px" }}
-                src="img/Hamideh_Hazrati_headshot.png"
-                className="img-fluid"
-                alt=""
-              />
-            </div>
-          </div>
-          {/* !!!Stop copying here!!! */}
+	
 
           {/* Paste here */}
         </div>
