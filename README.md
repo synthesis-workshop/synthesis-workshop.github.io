@@ -6,7 +6,7 @@ Whenever you want to make changes, it helps to run the website locally so that y
 
 ### 1.1 One-time Setup Tasks
 
-1) Open Terminal on your Mac and generate a public / private ssh keypair on your laptop using the following command using your github e-mail (with quotes):
+1. Open Terminal on your Mac and generate a public / private ssh keypair on your laptop using the following command using your github e-mail (with quotes):
 
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
@@ -18,7 +18,7 @@ Press "Enter" at each of these prompts to use the default values:
 > Enter same passphrase again: [Type passphrase again]
 ```
 
-2) Add the generated public key to your github ssh tokens
+2. Add the generated public key to your github ssh tokens
 
 In Terminal, run the following command to copy your public key to the clipboard:
 
@@ -26,9 +26,9 @@ In Terminal, run the following command to copy your public key to the clipboard:
 
 In GitHub, navigate to your profile settings > "SSH and GPG Keys" > "New SSH Key". Give your ssh key a descriptive title "macbook pro - personal" or something like that and past the public key from your clipboard into the box. DO NOT ADD ANY SPACES OR PRESS ENTER OR ANYTHING LIKE THAT.
 
-3) Download and install [Node.js](https://nodejs.org/en/download/). If you already have a terminal open, you will need to close it and open a new one when this installation is done.
+3. Download and install [Node.js](https://nodejs.org/en/download/). If you already have a terminal open, you will need to close it and open a new one when this installation is done.
 
-4) Clone the repository to your machine. Do this by opening Terminal and run
+4. Clone the repository to your machine. Do this by opening Terminal and run
 
 `cd path/to/where/you/want/the/project`
 
@@ -40,7 +40,7 @@ to clone the project to your machine.
 
 ### 1.2 Starting the project locally
 
-1) Navigate INTO the project directory in Terminal with
+1. Navigate INTO the project directory in Terminal with
 
 `cd path/to/project`
 
@@ -51,11 +51,11 @@ $ ls
 > README.md    build        node_modules package.json public       src          yarn.lock
 ```
 
-2) Once inside the project, make sure you have run the following command at least once to install dependencies:
+2. Once inside the project, make sure you have run the following command at least once to install dependencies:
 
 `yarn install`
 
-3) Start the project
+3. Start the project
 
 `yarn start`
 
@@ -89,7 +89,29 @@ In the same videos.json file, you can also update the counts object to show upda
 }
 ```
 
-### 2.3 Pushing your changes to the repository
+### 2.3 Adding a collaborator
+
+1. Add the collaborator's headshot to the public/img directory (folder)
+2. Go to src/components/views/about/index.js and copy/paste the indicated blocks
+3. Update the text inside the blocks and the image link to match the new stuff you want to display
+
+### 2.4 Adding a problem set
+
+There is a data file `problem-sets.json` located at `/src/shared/problem-sets.json` that contains the information for all of the problem sets. To add a problem set, open that file in your favorite text editor and add an entry to the array. Each problem set is represented by a curly-bracketted object, such as this:
+
+```
+{
+    "topic": "Sample Topic One",
+    "problemSetLink": "downloads/problem-sets/foo.pdf",
+    "solutionSetLink": "downloads/solution-sets/bar.pdf",
+    "videoDisplayTitle": "Total Synthesis of Limaol",
+    "relatedVideoId": "yccqXV8EhfM"
+}
+```
+
+After you add the entry, also add the problem set to the public/downloads/problem-sets directory, and add the solution set to the public/downloads/solution-sets directory.
+
+### 2.5 Pushing your changes to the repository
 
 After you have made your changes locally on your machine, you need to push the changes to the repository to keep it up to date. Do this by running the following commands in the Terminal (after you have navigated to the project directory):
 

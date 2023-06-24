@@ -44,6 +44,9 @@ export default function App() {
             <Nav.Link className="ml-2 mr-2 text-nowrap" href="#episode-list">
               Episode Directory
             </Nav.Link>
+            <Nav.Link className="ml-2 mr-2 text-nowrap" href="#problem-sets">
+              Problem Sets
+            </Nav.Link>
             <Nav.Link className="ml-2 mr-2 text-nowrap" href="#downloads">
               Downloads
             </Nav.Link>

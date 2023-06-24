@@ -5,6 +5,7 @@ import About from "../about";
 import Counts from "../counts";
 import Videos from "../videos";
 import EpisodeList from "../episode-list";
+import ProblemSets from "../problem-sets";
 import Downloads from "../downloads";
 import Contact from "../contact";
 import Footer from "../footer";
@@ -21,6 +22,7 @@ export default () => {
         <TwSymposium />
         <Videos />
         <EpisodeList />
+        <ProblemSets />
         <Downloads />
         <Contact />
       </main>
