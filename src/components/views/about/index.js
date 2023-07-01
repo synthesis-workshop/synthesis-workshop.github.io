@@ -161,7 +161,7 @@ export default () => {
             </div>
           </div>
 
-<div className="row mt-3">
+	<div className="row mt-3">
             <div className="col-lg-9 pt-4 pt-lg-0">
               <div className="card">
                 <div className="card-body">
@@ -182,8 +182,101 @@ export default () => {
             </div>
           </div>
 
+  <div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">
+                    Associate Editor - Problem Sets: Dr. Morgan Jouanneau
+                  </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                    Dr. Morgan Jouanneau obtained his Ph.D from Paris-Sud University (France) in 2013 under the supervision of Dr. Jean-Pierre Ferezou in total synthesis. He then moved to the USA to Texas A&M and Baylor Universities, to work on natural product probe synthesis and target identification under the supervision of Prof. Daniel Romo. In 2016, he moved back to France to study Ni/Fe catalyzed carbon-carbon formation in the laboratory of Prof. Janine Cossy at ESPCI as a postdoctoral researcher, before starting his current job in Nottingham (UK) at Sygnature Discovery in 2017, where is now a Lead Scientist.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Headshot-Morgan-Jouanneau.jpg"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+
+<div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">
+                    Editorial Board: Christian Andrews
+                  </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                   Christian Andrews is a senior scientist at PepsiCo specializing in the field of engineering chemistry and organic chemistry. With over 8 years of experience, he has made significant contributions to the understanding of color stabilization, sugar reduction and functional ingredients. He earned his Master's in Chemistry from The City College of New York and his Bachelor’s in Engineering Chemistry from Stony Brook University.  During his tenure at PepsiCo, he collaborated with numerous leading experts in the field, contributing to a number of patents and scientific journals. He continues to push the boundaries of chemistry as he formulates non-carbonated hydration products.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Christian-Andrews-headshot.png"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+
+
 
           <div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">
+                    Editorial Board: Dr. Xingfeng Bai
+                  </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                   Dr. Xingfeng Bai received his bachelor's degree in material science and engineering from Zhejiang University of Science and Technology (China) in 2010 under the guidance of Prof. Liqing Zhang. He then obtained his M. Sc. in 2013 at Hangzhou Normal University (China), and worked on organic synthesis and transition metal catalysis under the supervision of Prof. Liwen Xu. In the same year, he started his Ph.D. at the Lanzhou Institute of Chemical Physics (Chinese Academy of Sciences) under the supervision of Prof. Chungun Xia and Prof. Liwen Xu. After obtaining his Ph. D. at the beginning of 2017, he worked as an assistant researcher for one and a half years in the same lab to harvest more fruits of his doctoral research. He then spent two years as a postdoc in Prof. Yixin Lu’s lab at the National University of Singapore. Currently, he is a postdoc in Prof. Bert U. W. Maes’s group at the University of Antwerp (Belgium), and he was awarded Marie Skłodowska-Curie Individual Fellowship in 2022. 
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Xingfeng-Bai-Headshot.jpg"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+
+<div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">
+                    Editorial Board: Dr. Matteo Balletti
+                  </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                  Matteo was born in Bologna (Italy) in 1994. After achieving his bachelor degree in Chemistry in Bologna he pursued the Master's degree in the same city. During this period, he did an Erasmus stay for 6 months in Barcelona University joining a total synthesis project under the supervision of Professor M.C. Arnau. Matteo defended his Master's thesis in 2019 under the supervision of Professor P.G. Cozzi studying the synthesis of new coumarin derivatives and their use as photoredox catalysts. In the same year, driven by the passion for synthesis and photoredox catalysis he started his PhD under the supervision of Professor P. Melchiorre in ICIQ, Tarragona, where he studied the development of new photochemical methodologies for the synthesis of enantioenriched molecules. Since 2022, after successfully defending his PhD thesis Matteo is working as a process chemist in Farmhispania, a CDMO company for drug research and manufacture. 
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Matteo-Balletti-headshoto.jpg"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+
+ 	<div className="row mt-3">
             <div className="col-lg-9 pt-4 pt-lg-0">
               <div className="card">
                 <div className="card-body">
@@ -192,7 +285,7 @@ export default () => {
                   </h4>
                   <p className="card-text" style={{ textAlign: "justify" }}>
                     Kathleen received her B.Sc. at Radboud University, the
-                    Netherlands and is currently completing her Master studies
+                    Netherlands and is currently completing her Master's studies
                     at the same university. During her studies, she performed
                     research on the development of supramolecular catalysts in
                     the Nolte group at Radboud University, as well as on
@@ -213,6 +306,8 @@ export default () => {
           </div>
 
           
+
+
  {/* !!!Start copying here!!! */}
           <div className="row mt-3">
             <div className="col-lg-9 pt-4 pt-lg-0">
@@ -268,7 +363,7 @@ export default () => {
                     Philadelphia. He is currently a 3rd year graduate student in
                     Prof. Brad Carrow&#39;s lab at the University of Houston.
                     The theme of his research is organometallic catalysis, with
-                    a specific focus on Earth- abundant metal catalyzed
+                    a specific focus on Earth-abundant metal catalyzed
                     Suzuki-Miyaura cross-coupling reactions.
                   </p>
                 </div>
@@ -284,8 +379,27 @@ export default () => {
             </div>
           </div>
 
+	<div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">Editorial Board: Adrián Luguera Ruiz</h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                    Adrián Luguera Ruiz was born in Madrid (Spain) where he received his B.Sc. in Chemistry and M.Sc. in Organic Chemistry at Universidad Complutense de Madrid. He rapidly focused his career in Medicinal Chemistry during his B.Sc. and M.Sc. thesis, working on the synthesis of antibody-drug conjugates and 18F labelled compounds for the detection of Tau protein. He continued his professional career in Medicinal Chemistry, joining Janssen as a research fellow, Eurofins Villapharma Research and the Medicinal Chemistry Institute (IQM-CSIC). He is currently pursuing his Ph.D. at Università di Pavia (Italy) as part of the MSCA PhotoReAct-ITN. His research is focused on the development of new light-mediated photoredox processes and its potential applications in organic synthetic chemistry. His main interest is to combine these new strategies and Medicinal Chemistry in drug-discovery processes.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Adrian-Luguera-Ruez-heatshot.jpg"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
 	
-
           {/* Paste here */}
         </div>
       </section>
