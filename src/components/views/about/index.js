@@ -221,7 +221,7 @@ export default () => {
             <div className="col-lg-3 d-flex align-items-center justify-content-center">
               <img
                 style={{ width: "300px" }}
-                src="img/Christian-Andrews-headshot.png"
+                src="img/Christian-Andrews-headshot1.png"
                 className="img-fluid"
                 alt=""
               />
@@ -394,6 +394,27 @@ export default () => {
               <img
                 style={{ width: "300px" }}
                 src="img/Adrian-Luguera-Ruez-heatshot.jpg"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
+
+	<div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">Editorial Board: Andy Tran </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                    Andy was born and raised in the Metro Atlanta area. He traveled northward to Princeton University for undergraduate studies, where he completed an AB degree in chemistry in 2023 under the guidance of Professor Sir David W.C. MacMillan. Andy’s undergraduate research focused on utilizing the unique properties of metallaphotoredox chemistry to develop a novel methodology for heteroatom cross couplings, culminating in a final undergraduate thesis entitled Nickel Metallaphotoredox Enabled Phosphonylation of Alkyl Bromides. Currently, he is pursuing a PhD in chemistry at Emory University under the guidance of Professor Mingji Dai in the field of total synthesis. He is excited to continue contributing to the field of organic chemistry not only as a PhD student, but also as an editor of Synthesis Workshop videos - a tool he found incredibly useful during undergraduate studies. Outside of chemistry, Andy enjoys powerlifting, playing basketball, and teaching younger students. 
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Andy-Tran-Headshot.jpg"
                 className="img-fluid"
                 alt=""
               />
