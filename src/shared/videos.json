@@ -1,8 +1,8 @@
 {
     "counts": {
-        "subscribers": "9.06K+",
-        "featuredGuests": 95,
-        "totalViews": "269.0K+"
+        "subscribers": "9.13K+",
+        "featuredGuests": 96,
+        "totalViews": "272.9K+"
     },
     "total-synthesis": [
         {
@@ -215,6 +215,11 @@
     ],
     "research-spotlight": [
         {
+            "episodeNumber": 127,
+            "displayTitle": "Total Syntheses of Nominal and Actual Prorocentin with Dr. Raphael Zachmann",
+            "videoId": "cZZe0aSNouk"
+        }, 
+	{
             "episodeNumber": 126,
             "displayTitle": "Synthesis of Arynes via Formal Dehydrogenation of Arenes with Riley Roberts",
             "videoId": "PvVwTi7ivmA"
