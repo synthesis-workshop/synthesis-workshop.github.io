@@ -420,6 +420,27 @@ export default () => {
               />
             </div>
           </div>
+
+	<div className="row mt-3">
+            <div className="col-lg-9 pt-4 pt-lg-0">
+              <div className="card">
+                <div className="card-body">
+                  <h4 className="card-title">Editorial Board: Alicia Wagner </h4>
+                  <p className="card-text" style={{ textAlign: "justify" }}>
+                    Alicia received her B.Sc. at University of New Haven in Forensic Science, but after being exposed to organic chemistry through core requirements, she decided to switch fields. During her undergraduate years, she did research in forensics and mathematics, but in her senior years ended up focusing on the synthesis of analogs of cadiolide B, a marine natural product with activity against MRSA. She is now in the Manetsch lab at Northeastern University where her work focuses on discovery and optimization of novel antimalarial agents.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-3 d-flex align-items-center justify-content-center">
+              <img
+                style={{ width: "300px" }}
+                src="img/Alicia-Wagner-Headshot.jpeg"
+                className="img-fluid"
+                alt=""
+              />
+            </div>
+          </div>
 	
           {/* Paste here */}
         </div>

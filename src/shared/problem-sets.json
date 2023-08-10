@@ -2,7 +2,7 @@
   {
     "topic": "Tishchenko Reaction",
     "problemSetLink": "downloads/problem-sets/Tishchenko-Problem-Set.pdf",
-    "solutionSetLink": "downloads/solution-sets/Tishchenko-Solution-Set.pdf",
+    "solutionSetLink": "downloads/solution-sets/Tishchenko-Solution-Set-2.pdf",
     "relatedVideoId": "XlrewFzAk54"
   },
 	{
@@ -10,11 +10,17 @@
     "problemSetLink": "downloads/problem-sets/Aryne-problems.pdf",
     "solutionSetLink": "downloads/solution-sets/Aryne-solutions-set.pdf",
     "relatedVideoId": "PvVwTi7ivmA"
-  }
+  },
 	{
     "topic": "Total Synthesis of Prorocentin",
     "problemSetLink": "downloads/problem-sets/Problem-Prorocentin.pdf",
     "solutionSetLink": "downloads/solution-sets/Solution-Prorocentin.pdf",
     "relatedVideoId": "cZZe0aSNouk"
+  },
+{
+    "topic": "6π Electrocyclizations",
+    "problemSetLink": "downloads/problem-sets/6pi-electrocyclisation-problem-set.pdf",
+    "solutionSetLink": "downloads/solution-sets/6pi-electrocyclisation-solutions.pdf",
+    "relatedVideoId": "TLS74_QcxgQ"
   }
 ]
